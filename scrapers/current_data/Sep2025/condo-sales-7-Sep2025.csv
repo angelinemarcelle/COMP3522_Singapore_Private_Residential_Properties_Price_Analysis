@@ -1,0 +1,661 @@
+ListID,PropertyName,Type,Price,Bedrooms,Bathrooms,Sqft,Author,ListDate,Address,NearestMRT,DistanceToMRT,PricePerSqft,URL
+25365522,The M,Sale,1450000.0,1,1,527,Paul Tan,24 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2751.42,https://www.propertyguru.com.sg/listing/for-sale-the-m-25365522
+60125513,Concourse Skyline,Sale,1580000.0,1,1,872,Nicole Teo,24 Sep 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,1811.93,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-60125513
+60029501,Midtown Modern,Sale,3800000.0,3,2,1066,Nicole Teo,24 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3564.73,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60029501
+25557044,Concourse Skyline,Sale,3180000.0,3,3,1378,Nicole Teo,24 Sep 2025,Beach Road,CC5 Nicoll Highway MRT Station,290,2307.69,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-25557044
+22460052,Concourse Skyline,Sale,2480000.0,2,2,1141,Eugene Wong,24 Sep 2025,300 Beach Road,CC5 Nicoll Highway MRT Station,340,2173.53,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-22460052
+21105155,Concourse Skyline,Sale,1592000.0,1,1,872,Eugene Wong,24 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,1825.69,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-21105155
+24189470,Concourse Skyline,Sale,3200000.0,3,3,1668,Eugene Wong,24 Sep 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,1918.47,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-24189470
+21842097,Concourse Skyline,Sale,5150000.0,5,5,2185,Eugene Wong,24 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,2356.98,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-21842097
+23412755,Midtown Modern,Sale,6248448.0,4,4,1808,Agnes Ng,24 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3456.0,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-23412755
+60098156,South Beach Residences,Sale,7000000.0,3,3,1744,Frederick Neo,24 Sep 2025,28 South Beach Road,CC3 Esplanade MRT Station,290,4013.76,https://www.propertyguru.com.sg/listing/for-sale-south-beach-residences-60098156
+25244937,Midtown Modern,Sale,1520000.0,1,1,474,Sindric Goh,24 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3206.75,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25244937
+24996785,The M,Sale,1950000.0,2,2,743,Alvin Kwa,24 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2624.5,https://www.propertyguru.com.sg/listing/for-sale-the-m-24996785
+21014027,Concourse Skyline,Sale,2480000.0,2,2,1098,Joanna Lim,24 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,2258.65,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-21014027
+25193474,Midtown Modern,Sale,1950000.0,2,1,592,Gary Ong,24 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3293.92,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25193474
+60107029,DUO Residences,Sale,9400000.0,4,4,3218,Gary Ong,24 Sep 2025,1 Fraser Street,EW12 Bugis MRT Station,250,2921.07,https://www.propertyguru.com.sg/listing/for-sale-duo-residences-60107029
+25130839,The M,Sale,1650000.0,1,1,527,Maureen Kang,24 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,3130.93,https://www.propertyguru.com.sg/listing/for-sale-the-m-25130839
+25491750,The M,Sale,2050000.0,2,2,764,Veroy Chua,24 Sep 2025,36 Middle Road,CC3 Esplanade MRT Station,480,2683.25,https://www.propertyguru.com.sg/listing/for-sale-the-m-25491750
+60110200,Aurea,Sale,6100000.0,4,3,1798,Andy Neo,24 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,3392.66,https://www.propertyguru.com.sg/listing/for-sale-aurea-60110200
+23397161,Midtown Modern,Sale,2600000.0,2,2,721,Agnes Ng,24 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3606.1,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-23397161
+60135844,Midtown Bay,Sale,1620000.0,1,1,484,Ashlyn Peh,23 Sep 2025,120 Beach Road,CC3 Esplanade MRT Station,520,3347.11,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-60135844
+60135836,Midtown Bay,Sale,2300000.0,2,2,732,Ashlyn Peh,23 Sep 2025,120 Beach Road,CC3 Esplanade MRT Station,520,3142.08,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-60135836
+60135642,Midtown Bay,Sale,4700000.0,3,3,1324,Ashlyn Peh,23 Sep 2025,120 Beach Road,CC3 Esplanade MRT Station,520,3549.85,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-60135642
+60010328,Southbank,Sale,1899999.0,2,2,969,Gio Ng  吴志华,23 Sep 2025,881 North Bridge Road,EW11 Lavender MRT Station,450,1960.78,https://www.propertyguru.com.sg/listing/for-sale-southbank-60010328
+25596898,Midtown Bay,Sale,1300000.0,1,1,409,Johanna Chow,23 Sep 2025,122 Beach Road,EW12 Bugis MRT Station,410,3178.48,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-25596898
+24287784,Midtown Modern,Sale,1630000.0,1,1,474,Faith Quek,23 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3438.82,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-24287784
+60080962,The M,Sale,1625000.0,2,1,592,Paul Ang,23 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2744.93,https://www.propertyguru.com.sg/listing/for-sale-the-m-60080962
+25561623,Midtown Modern,Sale,2638888.0,3,2,904,Jonathan Koh Chiang Liang,23 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,2919.12,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25561623
+60117011,Aurea,Sale,4080510.0,4,4,1442,Felicia Tan Yi Jie,23 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2829.76,https://www.propertyguru.com.sg/listing/for-sale-aurea-60117011
+24810677,The M,Sale,1188000.0,1,1,431,Joanne Koh,23 Sep 2025,36 Middle Road,CC3 Esplanade MRT Station,480,2756.38,https://www.propertyguru.com.sg/listing/for-sale-the-m-24810677
+25620681,Midtown Modern,Sale,2050000.0,2,1,635,Ken Soo,23 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3228.35,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25620681
+25592322,The M,Sale,2168888.0,2,2,753,Joey Kuok,23 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2880.33,https://www.propertyguru.com.sg/listing/for-sale-the-m-25592322
+25591609,Midtown Modern,Sale,1380000.0,1,1,409,Jeff Lim,23 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3374.08,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25591609
+24365238,Midtown Modern,Sale,1630000.0,1,1,474,Ashlyn Peh,22 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3438.82,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-24365238
+25600446,The M,Sale,1180000.0,1,1,431,Joy Shi 施谨婉,22 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2737.82,https://www.propertyguru.com.sg/listing/for-sale-the-m-25600446
+60114135,The M,Sale,1500000.0,2,1,527,Vivien Loi,24 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2846.3,https://www.propertyguru.com.sg/listing/for-sale-the-m-60114135
+25609143,The M,Sale,1988000.0,2,2,743,Russell Teo,22 Sep 2025,36 Middle Road,CC3 Esplanade MRT Station,480,2675.64,https://www.propertyguru.com.sg/listing/for-sale-the-m-25609143
+24166008,Concourse Skyline,Sale,2300000.0,2,2,1098,Edmund Chin,22 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,2094.72,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-24166008
+60096721,Midtown Modern,Sale,2080000.0,2,1,635,Hariz Adam,21 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3275.59,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60096721
+60090207,Midtown Modern,Sale,2100000.0,2,1,635,Marcus Ang,20 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3307.09,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60090207
+60130344,Southbank,Sale,1950000.0,2,2,958,Jasmine Lim,21 Sep 2025,881 North Bridge Road,EW11 Lavender MRT Station,450,2035.49,https://www.propertyguru.com.sg/listing/for-sale-southbank-60130344
+24782102,The M,Sale,1150000.0,1,1,441,Ailsa Ang,19 Sep 2025,36 Middle Road,CC3 Esplanade MRT Station,480,2607.71,https://www.propertyguru.com.sg/listing/for-sale-the-m-24782102
+60119988,The M,Sale,1650000.0,2,1,592,Chan Xi,19 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2787.16,https://www.propertyguru.com.sg/listing/for-sale-the-m-60119988
+24714970,The M,Sale,1149313.0,1,1,409,Lara Lam,19 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2810.06,https://www.propertyguru.com.sg/listing/for-sale-the-m-24714970
+60002982,Midtown Modern,Sale,1820000.0,2,1,592,Kelvin Thong,18 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3074.32,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60002982
+60126433,Midtown Bay,Sale,2180000.0,2,2,753,Patricia Su,18 Sep 2025,122 Beach Road,EW12 Bugis MRT Station,410,2895.09,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-60126433
+60129532,The M,Sale,999999.0,-1,1,409,Johanna Chow,18 Sep 2025,32 Middle Road,CC3 Esplanade MRT Station,480,2444.99,https://www.propertyguru.com.sg/listing/for-sale-the-m-60129532
+25636314,Midtown Modern,Sale,1880000.0,2,1,592,Tiffany Chen,18 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3175.68,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25636314
+25593570,Midtown Modern,Sale,1308888.0,1,1,409,Zac Chen,18 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3200.22,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25593570
+24354115,The M,Sale,1190000.0,1,1,527,Fransiska Tan,18 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2258.06,https://www.propertyguru.com.sg/listing/for-sale-the-m-24354115
+60110310,Midtown Modern,Sale,2200000.0,2,1,635,Zac Chen,18 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3464.57,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60110310
+60111539,"Cheapest 1 bedder in RCR, mins walk to MRT! $300k cheaper than nearby project",Sale,1188000.0,1,1,431,Joanne Koh,18 Sep 2025,,CC3 Esplanade MRT Station,460,2756.38,https://www.propertyguru.com.sg/listing/for-sale-cheapest-1-bedder-in-rcr-mins-walk-to-mrt-300k-cheaper-than-nearby-project-60111539
+60042904,Midtown Modern,Sale,2300000.0,2,1,635,Vernon Ang,18 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3622.05,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60042904
+25175113,Midtown Modern,Sale,2550000.0,2,2,721,Raymond Tung,24 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3536.75,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25175113
+60023676,Midtown Modern,Sale,2480000.0,2,1,635,Lillian Koh,24 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3905.51,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60023676
+60110455,Midtown Modern,Sale,2000000.0,2,1,635,Jeff Lim,24 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3149.61,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60110455
+25214135,The M,Sale,1688888.0,2,1,635,Levan Heng,24 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2659.67,https://www.propertyguru.com.sg/listing/for-sale-the-m-25214135
+60121153,The M,Sale,1388888.0,1,1,527,Wendi Soh,24 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2635.46,https://www.propertyguru.com.sg/listing/for-sale-the-m-60121153
+24789864,The M,Sale,1500000.0,1,1,404,Jerlyn Ng,24 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,3712.87,https://www.propertyguru.com.sg/listing/for-sale-the-m-24789864
+60092192,Concourse Skyline,Sale,3000000.0,3,3,1335,Matthias Chia 谢金城,24 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,2247.19,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-60092192
+60117757,Aurea,Sale,2632000.0,3,2,1001,Yok Ng,24 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2629.37,https://www.propertyguru.com.sg/listing/for-sale-aurea-60117757
+24576645,The M,Sale,1149999.0,-1,1,409,Bendy Ho,24 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2811.73,https://www.propertyguru.com.sg/listing/for-sale-the-m-24576645
+60005794,Midtown Modern,Sale,2788000.0,3,2,904,Samuel Eyo,24 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3084.07,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60005794
+25143026,Midtown Modern,Sale,1488888.0,1,1,409,Liz Qiu,24 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3640.31,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25143026
+25405037,The Plaza,Sale,888000.0,1,1,678,Meldys Tan,24 Sep 2025,7500A Beach Road,CC5 Nicoll Highway MRT Station,490,1309.73,https://www.propertyguru.com.sg/listing/for-sale-the-plaza-25405037
+60040868,Midtown Modern,Sale,1500000.0,1,1,474,Lydia Shi,23 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3164.56,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60040868
+25511210,The M,Sale,1850000.0,2,2,667,Stefan Teo,23 Sep 2025,36 Middle Road,CC3 Esplanade MRT Station,480,2773.61,https://www.propertyguru.com.sg/listing/for-sale-the-m-25511210
+60011347,Aurea,Sale,11572000.0,5,4,3252,William Quek,23 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,3558.43,https://www.propertyguru.com.sg/listing/for-sale-aurea-60011347
+25625113,Midtown Modern,Sale,2688888.0,3,2,904,Jeff Lim,23 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,2974.43,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25625113
+25468981,Concourse Skyline,Sale,5080000.0,4,4,2282,Fong Kwok Wah,23 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,2226.12,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-25468981
+25628377,Midtown Modern,Sale,1550000.0,1,1,409,Jay Ng,22 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3789.73,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25628377
+25563505,Aurea,Sale,5186106.0,4,3,1798,Jeffrey Tay,21 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2884.37,https://www.propertyguru.com.sg/listing/for-sale-aurea-25563505
+23935234,Southbank,Sale,1280000.0,1,1,613,Jimmy Choo,21 Sep 2025,881 North Bridge Road,EW11 Lavender MRT Station,450,2088.09,https://www.propertyguru.com.sg/listing/for-sale-southbank-23935234
+25002180,Concourse Skyline,Sale,1598000.0,1,1,883,Cindy Sim,21 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,1809.74,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-25002180
+24991463,Midtown Modern,Sale,2200000.0,2,1,635,Aaron Goh,21 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3464.57,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-24991463
+24781698,The M,Sale,1288888.0,1,1,431,Sandra Teo,23 Sep 2025,36 Middle Road,CC3 Esplanade MRT Station,480,2990.46,https://www.propertyguru.com.sg/listing/for-sale-the-m-24781698
+60027807,The M,Sale,2050000.0,2,2,764,Lee Kiat Chin,20 Sep 2025,36 Middle Road,CC3 Esplanade MRT Station,480,2683.25,https://www.propertyguru.com.sg/listing/for-sale-the-m-60027807
+24784633,The M,Sale,1700000.0,2,1,635,Ong Chun Pheng (CP),20 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2677.17,https://www.propertyguru.com.sg/listing/for-sale-the-m-24784633
+25261626,Midtown Bay,Sale,1500000.0,1,1,463,Connie Chia,20 Sep 2025,122 Beach Road,EW12 Bugis MRT Station,410,3239.74,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-25261626
+60040682,The M,Sale,1100000.0,-1,1,409,Brandon Lee,20 Sep 2025,32 Middle Road,CC3 Esplanade MRT Station,480,2689.49,https://www.propertyguru.com.sg/listing/for-sale-the-m-60040682
+25520560,The M,Sale,1190000.0,1,1,527,Esther Wang 王芝茵,19 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2258.06,https://www.propertyguru.com.sg/listing/for-sale-the-m-25520560
+25597799,Concourse Skyline,Sale,3000000.0,3,3,1335,Evangeline Dua,19 Sep 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,2247.19,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-25597799
+25507088,The M,Sale,2174999.0,2,2,721,Daven Soh,19 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,3016.64,https://www.propertyguru.com.sg/listing/for-sale-the-m-25507088
+25396790,The M,Sale,999999.0,-1,1,409,Nicole Fan,18 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2444.99,https://www.propertyguru.com.sg/listing/for-sale-the-m-25396790
+24739713,The M,Sale,2100000.0,2,2,732,Serene Sin,18 Sep 2025,36 Middle Road,CC3 Esplanade MRT Station,480,2868.85,https://www.propertyguru.com.sg/listing/for-sale-the-m-24739713
+24737386,The M,Sale,1600000.0,2,1,527,Tan Hwee Pheng,18 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,3036.05,https://www.propertyguru.com.sg/listing/for-sale-the-m-24737386
+25551566,Midtown Modern,Sale,1390000.0,1,1,409,Cheryl Tang 邓慧中,18 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3398.53,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25551566
+24356166,The M,Sale,1680000.0,1,1,484,Roy Low,24 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,3471.07,https://www.propertyguru.com.sg/listing/for-sale-the-m-24356166
+24583954,Concourse Skyline,Sale,2398000.0,2,2,1119,Sheryl Neo,24 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,2142.98,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-24583954
+25496076,The M,Sale,1288888.0,1,1,452,Calvin Lim,24 Sep 2025,32 Middle Road,CC3 Esplanade MRT Station,480,2851.52,https://www.propertyguru.com.sg/listing/for-sale-the-m-25496076
+60105671,Midtown Modern,Sale,1550000.0,1,1,474,"Wang Huiqi, Kim",24 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3270.04,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60105671
+60137167,The M,Sale,1100000.0,1,1,409,Laven Loo 吕欣颐,24 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2689.49,https://www.propertyguru.com.sg/listing/for-sale-the-m-60137167
+24796190,The M,Sale,1370000.0,1,1,463,Valerie Tan,24 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2958.96,https://www.propertyguru.com.sg/listing/for-sale-the-m-24796190
+25611939,Midtown Modern,Sale,3288888.0,3,2,1066,Cedrik Yu,24 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3085.26,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25611939
+24993732,The M,Sale,1199900.0,1,1,409,Darrion Lau,24 Sep 2025,32 Middle Road,CC3 Esplanade MRT Station,480,2933.74,https://www.propertyguru.com.sg/listing/for-sale-the-m-24993732
+60136916,Aurea,Sale,9726890.0,5,6,2863,Tim Tay,24 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,3397.45,https://www.propertyguru.com.sg/listing/for-sale-aurea-60136916
+60136889,Aurea,Sale,2632000.0,3,2,1001,Tim Tay,24 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2629.37,https://www.propertyguru.com.sg/listing/for-sale-aurea-60136889
+60136878,Aurea,Sale,4080510.0,4,3,1442,Tim Tay,24 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2829.76,https://www.propertyguru.com.sg/listing/for-sale-aurea-60136878
+60116988,Aurea,Sale,1777000.0,2,2,635,Lin Sallee 林玥廷,24 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2798.43,https://www.propertyguru.com.sg/listing/for-sale-aurea-60116988
+25418943,The M,Sale,1980000.0,2,2,721,William Hui,24 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2746.19,https://www.propertyguru.com.sg/listing/for-sale-the-m-25418943
+25288356,Concourse Skyline,Sale,2390000.0,2,2,1119,John Lee,24 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,2135.84,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-25288356
+60131835,Aurea,Sale,4080510.0,4,3,1442,Clive Cheong,24 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2829.76,https://www.propertyguru.com.sg/listing/for-sale-aurea-60131835
+24775963,The M,Sale,1088888.0,-1,1,409,Jeffrey Zeus,24 Sep 2025,32 Middle Road,CC3 Esplanade MRT Station,480,2662.32,https://www.propertyguru.com.sg/listing/for-sale-the-m-24775963
+60136422,Midtown Modern,Sale,2200000.0,2,1,635,Burhan Khalip,24 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3464.57,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60136422
+24754275,The M,Sale,1400000.0,1,1,527,Isaac Lee,24 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2656.55,https://www.propertyguru.com.sg/listing/for-sale-the-m-24754275
+25477214,Midtown Modern,Sale,1950000.0,2,1,592,Raymond Ho,24 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3293.92,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25477214
+60096236,Aurea,Sale,1765000.0,2,2,635,Raymond Ho,24 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2779.53,https://www.propertyguru.com.sg/listing/for-sale-aurea-60096236
+25217397,Concourse Skyline,Sale,1600000.0,1,1,818,Pamela Chin,24 Sep 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,1955.99,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-25217397
+25603655,South Beach Residences,Sale,4600000.0,2,2,1216,Tommy Teo,24 Sep 2025,28 South Beach Road,CC3 Esplanade MRT Station,290,3782.89,https://www.propertyguru.com.sg/listing/for-sale-south-beach-residences-25603655
+25031000,Midtown Modern,Sale,1650000.0,1,1,474,John Teng,24 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3481.01,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25031000
+60130916,The M,Sale,1730000.0,2,1,614,Anni Kum,24 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2817.59,https://www.propertyguru.com.sg/listing/for-sale-the-m-60130916
+25228565,South Beach Residences,Sale,3700000.0,2,2,1216,Julian Li,24 Sep 2025,28 South Beach Road,CC3 Esplanade MRT Station,290,3042.76,https://www.propertyguru.com.sg/listing/for-sale-south-beach-residences-25228565
+24783255,The M,Sale,1599999.0,1,1,527,Kavin Kuah,24 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,3036.05,https://www.propertyguru.com.sg/listing/for-sale-the-m-24783255
+23791876,Concourse Skyline,Sale,3100000.0,3,3,1335,Eugene Wong,24 Sep 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,2322.1,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-23791876
+60044829,The M,Sale,1999999.0,3,2,753,Sharlene Lim SL,24 Sep 2025,36 Middle Road,CC3 Esplanade MRT Station,480,2656.04,https://www.propertyguru.com.sg/listing/for-sale-the-m-60044829
+25408756,The M,Sale,1350000.0,1,1,463,Anthony Low,24 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2915.77,https://www.propertyguru.com.sg/listing/for-sale-the-m-25408756
+25440377,The M,Sale,1200000.0,-1,1,409,Wong Boon Keng,24 Sep 2025,32 Middle Road,CC3 Esplanade MRT Station,480,2933.99,https://www.propertyguru.com.sg/listing/for-sale-the-m-25440377
+60136112,The M,Sale,1050000.0,-1,1,409,Riko Ashley,24 Sep 2025,32 Middle Road,CC3 Esplanade MRT Station,480,2567.24,https://www.propertyguru.com.sg/listing/for-sale-the-m-60136112
+25605706,Aurea,Sale,1795000.0,2,2,646,William Quek,24 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2778.64,https://www.propertyguru.com.sg/listing/for-sale-aurea-25605706
+60039533,Midtown Modern,Sale,2788000.0,3,2,904,Zac Chen,23 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3084.07,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60039533
+25637462,Midtown Modern,Sale,1520000.0,1,1,474,Boren Ang,23 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3206.75,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25637462
+60078052,Concourse Skyline,Sale,2388000.0,2,2,1163,Alex Ho,23 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,2053.31,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-60078052
+25600528,The M,Sale,1180000.0,1,1,431,Melissa Chan,23 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2737.82,https://www.propertyguru.com.sg/listing/for-sale-the-m-25600528
+60040598,The M,Sale,1300000.0,1,1,527,Yong Yi Xin,23 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2466.79,https://www.propertyguru.com.sg/listing/for-sale-the-m-60040598
+25577521,Concourse Skyline,Sale,1880000.0,1,1,861,Brandon Chia,23 Sep 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,2183.51,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-25577521
+24926593,Midtown Modern,Sale,1520000.0,1,1,474,Wei Ni Ong,23 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3206.75,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-24926593
+60056137,The M,Sale,2199000.0,2,2,732,Hillary Wan,23 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,3004.1,https://www.propertyguru.com.sg/listing/for-sale-the-m-60056137
+60044674,Midtown Modern,Sale,2699999.0,3,2,904,Sky Sek,23 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,2986.72,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60044674
+25248889,"⭐️READY FOR IMMEDIATE MOVE IN , HIGH RENTAL YIELD",Sale,2200000.0,2,2,743,Eugene Ng,23 Sep 2025,,CC3 Esplanade MRT Station,380,2960.97,https://www.propertyguru.com.sg/listing/for-sale-ready-for-immediate-move-in-high-rental-yield-25248889
+25623692,"⭐ ⭐CHEAPER ! Midtown Modern ! 3 BEDDERS COMPARE, BUGIS MRT",Sale,2645000.0,3,2,904,Able S.K Toh,23 Sep 2025,16 TAN QUEE LAN STREET,EW12 Bugis MRT Station,400,2925.88,https://www.propertyguru.com.sg/listing/for-sale-cheaper-midtown-modern-3-bedders-compare-bugis-mrt-25623692
+25088993,Midtown Modern,Sale,1500000.0,1,1,409,Annie Lee,23 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3667.48,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25088993
+60032762,The M,Sale,1900000.0,2,2,732,Charmaine Chen,23 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2595.63,https://www.propertyguru.com.sg/listing/for-sale-the-m-60032762
+25644190,Aurea,Sale,1790000.0,2,2,646,Norman Koh,23 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2770.9,https://www.propertyguru.com.sg/listing/for-sale-aurea-25644190
+60123626,The M,Sale,1700000.0,2,1,635,Kelly Yu 余奕葹,23 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2677.17,https://www.propertyguru.com.sg/listing/for-sale-the-m-60123626
+24439843,Midtown Modern,Sale,2100000.0,2,1,635,Rebecca Tan,23 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3307.09,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-24439843
+60086217,The M,Sale,2168888.0,2,2,753,Andy Ea,23 Sep 2025,36 Middle Road,CC3 Esplanade MRT Station,480,2880.33,https://www.propertyguru.com.sg/listing/for-sale-the-m-60086217
+25606004,Aurea,Sale,1886900.0,2,2,710,William Quek,23 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2657.61,https://www.propertyguru.com.sg/listing/for-sale-aurea-25606004
+24951116,The M,Sale,1298888.0,1,1,441,Nicholas Feng,23 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2945.32,https://www.propertyguru.com.sg/listing/for-sale-the-m-24951116
+25544151,Concourse Skyline,Sale,1830000.0,1,1,829,Daryl Lee,23 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,2207.48,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-25544151
+60001149,Midtown Modern,Sale,5988888.0,4,3,1808,Kumar N,24 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3312.44,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60001149
+60095363,Aurea,Sale,2050000.0,2,2,710,Ang Lay See,23 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2887.32,https://www.propertyguru.com.sg/listing/for-sale-aurea-60095363
+20995616,Concourse Skyline,Sale,1900000.0,1,1,883,Pearlyn Chionh,23 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,2151.76,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-20995616
+24813472,The M,Sale,1880000.0,2,1,667,Geraldine Tan,23 Sep 2025,Middle Road,CC3 Esplanade MRT Station,480,2818.59,https://www.propertyguru.com.sg/listing/for-sale-the-m-24813472
+25168630,The M,Sale,1580000.0,1,1,624,Lim KG,23 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2532.05,https://www.propertyguru.com.sg/listing/for-sale-the-m-25168630
+60135148,Midtown Modern,Sale,1480000.0,1,1,474,Wansheng 万昇 .,23 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3122.36,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60135148
+24958186,The M,Sale,1348000.0,1,1,527,Ken Wee,23 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2557.87,https://www.propertyguru.com.sg/listing/for-sale-the-m-24958186
+25357730,The M,Sale,1068000.0,-1,1,409,Sandy Wong,23 Sep 2025,32 Middle Road,CC3 Esplanade MRT Station,480,2611.25,https://www.propertyguru.com.sg/listing/for-sale-the-m-25357730
+60021079,DUO Residences,Sale,1398888.0,1,1,560,Sim Li Ping,23 Sep 2025,1 Fraser Street,EW12 Bugis MRT Station,250,2498.01,https://www.propertyguru.com.sg/listing/for-sale-duo-residences-60021079
+25402592,The M,Sale,2288000.0,1,1,646,Donald Lin,23 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,3541.8,https://www.propertyguru.com.sg/listing/for-sale-the-m-25402592
+25488756,The M,Sale,1680000.0,2,1,614,Wang JC,23 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2736.16,https://www.propertyguru.com.sg/listing/for-sale-the-m-25488756
+24857021,The M,Sale,1180000.0,1,1,431,Michelle Tan,23 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2737.82,https://www.propertyguru.com.sg/listing/for-sale-the-m-24857021
+60135049,Midtown Modern,Sale,2720000.0,3,2,904,Tracy Wang,23 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3008.85,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60135049
+25573989,Midtown Modern,Sale,2530000.0,2,2,721,Daniel Phua,23 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3509.02,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25573989
+25382773,Midtown Modern,Sale,1600000.0,1,1,474,Kelvis Kua,23 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,400,3375.53,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25382773
+25607681,Aurea,Sale,4999988.0,4,3,1798,William Quek,22 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2780.86,https://www.propertyguru.com.sg/listing/for-sale-aurea-25607681
+24778004,The M,Sale,1238000.0,-1,1,455,Karen Lim,22 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2720.88,https://www.propertyguru.com.sg/listing/for-sale-the-m-24778004
+25275650,The M,Sale,1900000.0,2,2,732,Jordan Tay (郑扬龄),22 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2595.63,https://www.propertyguru.com.sg/listing/for-sale-the-m-25275650
+25093135,The M,Sale,2080000.0,2,2,753,Nicole Wang,22 Sep 2025,36 Middle Road,CC3 Esplanade MRT Station,480,2762.28,https://www.propertyguru.com.sg/listing/for-sale-the-m-25093135
+24724717,The M,Sale,1050000.0,1,1,409,Janet Lim,22 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2567.24,https://www.propertyguru.com.sg/listing/for-sale-the-m-24724717
+60094638,Midtown Modern,Sale,1880000.0,2,1,592,Fan Hao Ang,22 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3175.68,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60094638
+60013233,The M,Sale,1650000.0,2,1,592,Joey Tan,22 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2787.16,https://www.propertyguru.com.sg/listing/for-sale-the-m-60013233
+25236238,The M,Sale,1300000.0,1,1,452,Maybeline Chin,22 Sep 2025,32 Middle Road,CC3 Esplanade MRT Station,480,2876.11,https://www.propertyguru.com.sg/listing/for-sale-the-m-25236238
+24686436,The M,Sale,1790000.0,2,1,592,Anne Ho,22 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,3023.65,https://www.propertyguru.com.sg/listing/for-sale-the-m-24686436
+25609272,Concourse Skyline,Sale,3200000.0,3,3,1410,Patricia Chan,22 Sep 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,2269.5,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-25609272
+60058899,The M,Sale,1400000.0,1,1,463,Alina Tan,22 Sep 2025,36 Middle Road,CC3 Esplanade MRT Station,480,3023.76,https://www.propertyguru.com.sg/listing/for-sale-the-m-60058899
+23325576,Concourse Skyline,Sale,1620000.0,1,1,872,Jazz Kee,22 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,1857.8,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-23325576
+25278246,Midtown Bay,Sale,1460000.0,1,1,409,Toh Lucy (Serene Toh),22 Sep 2025,122 Beach Road,EW12 Bugis MRT Station,410,3569.68,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-25278246
+25478156,Concourse Skyline,Sale,1580000.0,1,1,840,CY Tan,22 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,1880.95,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-25478156
+24921989,The M,Sale,1800000.0,2,1,635,Ashlyn Aw 胡欣慧,22 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2834.65,https://www.propertyguru.com.sg/listing/for-sale-the-m-24921989
+60094221,Concourse Skyline,Sale,2388888.0,2,2,1163,Darius Beh,22 Sep 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,2054.07,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-60094221
+60110777,Midtown Modern,Sale,2800000.0,3,2,904,Jimme Pang,22 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3097.35,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60110777
+25318411,Concourse Skyline,Sale,5700000.0,5,5,2185,John Lee,22 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,2608.7,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-25318411
+25072595,Concourse Skyline,Sale,2200000.0,2,2,1152,Joe Ong,22 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,1909.72,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-25072595
+25584357,Midtown Modern,Sale,2650000.0,3,2,904,Kelly Tan,22 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,2931.42,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25584357
+25639541,The M,Sale,1720000.0,2,1,635,Yvonne Chua,22 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2708.66,https://www.propertyguru.com.sg/listing/for-sale-the-m-25639541
+60120916,Concourse Skyline,Sale,5200000.0,5,4,2109,Paul Fam,22 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,2465.62,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-60120916
+25584291,Midtown Modern,Sale,2750000.0,3,2,904,Paul Fam,22 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3042.04,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25584291
+25586878,Concourse Skyline,Sale,1550000.0,1,1,872,Sean Tiah,22 Sep 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,1777.52,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-25586878
+25530426,Midtown Modern,Sale,3000000.0,3,2,1066,Serene Ong,22 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,2814.26,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25530426
+60130404,The M,Sale,1688000.0,2,1,592,Andrea Goh 吴雪婷,22 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2851.35,https://www.propertyguru.com.sg/listing/for-sale-the-m-60130404
+60076121,Concourse Skyline,Sale,1880000.0,1,1,872,Joshua Loo,22 Sep 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,2155.96,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-60076121
+60076116,Concourse Skyline,Sale,2100000.0,2,2,1119,Joshua Loo,22 Sep 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,1876.68,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-60076116
+25184180,The M,Sale,1200000.0,1,1,452,Raith Ang Rui Yuan,22 Sep 2025,32 Middle Road,CC3 Esplanade MRT Station,480,2654.87,https://www.propertyguru.com.sg/listing/for-sale-the-m-25184180
+25606066,Aurea,Sale,2632000.0,3,2,1001,William Quek,22 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2629.37,https://www.propertyguru.com.sg/listing/for-sale-aurea-25606066
+24064529,South Beach Residences,Sale,9900000.0,3,3,2164,Chris Tan,21 Sep 2025,28 South Beach Road,CC3 Esplanade MRT Station,290,4574.86,https://www.propertyguru.com.sg/listing/for-sale-south-beach-residences-24064529
+60052914,Concourse Skyline,Sale,1880000.0,1,1,872,May Tan,21 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,2155.96,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-60052914
+60131766,Midtown Bay,Sale,1488000.0,1,1,409,Desmond Goh,21 Sep 2025,120 Beach Road,CC3 Esplanade MRT Station,520,3638.14,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-60131766
+24349968,The M,Sale,2150000.0,2,2,721,Andy Ling 凌志泉,21 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2981.97,https://www.propertyguru.com.sg/listing/for-sale-the-m-24349968
+25136696,The M,Sale,2000000.0,2,2,743,Stefan Teo,21 Sep 2025,36 Middle Road,CC3 Esplanade MRT Station,480,2691.79,https://www.propertyguru.com.sg/listing/for-sale-the-m-25136696
+60070131,The M,Sale,1150000.0,-1,1,409,Christine Ng,21 Sep 2025,32 Middle Road,CC3 Esplanade MRT Station,480,2811.74,https://www.propertyguru.com.sg/listing/for-sale-the-m-60070131
+24356698,The M,Sale,1350000.0,1,1,527,Mary Ngiam Ei Chien,21 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2561.67,https://www.propertyguru.com.sg/listing/for-sale-the-m-24356698
+25617391,The M,Sale,1600000.0,2,1,624,Eliz Tan 陈芷莹,21 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2564.1,https://www.propertyguru.com.sg/listing/for-sale-the-m-25617391
+24867560,The M,Sale,950000.0,1,1,420,Calvin Liu,21 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2261.9,https://www.propertyguru.com.sg/listing/for-sale-the-m-24867560
+60124128,The M,Sale,1660000.0,2,1,592,Calvin Liu,21 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2804.05,https://www.propertyguru.com.sg/listing/for-sale-the-m-60124128
+25607661,Aurea,Sale,3980000.0,4,3,1442,William Quek,21 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2760.06,https://www.propertyguru.com.sg/listing/for-sale-aurea-25607661
+24799409,The M,Sale,2588888.0,3,2,904,Carrie Zhang,21 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2863.81,https://www.propertyguru.com.sg/listing/for-sale-the-m-24799409
+25263074,Midtown Bay,Sale,1678000.0,1,1,474,Jessica Loh,21 Sep 2025,122 Beach Road,EW12 Bugis MRT Station,410,3540.08,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-25263074
+25263077,Midtown Bay,Sale,2468000.0,2,2,743,Jessica Loh,21 Sep 2025,120 Beach Road,CC3 Esplanade MRT Station,520,3321.67,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-25263077
+25288350,Concourse Skyline,Sale,5370000.0,4,5,2648,John Lee,21 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,2027.95,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-25288350
+24469221,Concourse Skyline,Sale,5300000.0,4,3,2200,Ellouisa Chen (Elle Chen),21 Sep 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,2409.09,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-24469221
+60117650,Aurea,Sale,1765000.0,2,2,635,Jolene Koh,21 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2779.53,https://www.propertyguru.com.sg/listing/for-sale-aurea-60117650
+25561815,Midtown Modern,Sale,3188888.0,3,2,904,Jayden Ho,21 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3527.53,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25561815
+60110768,Midtown Modern,Sale,1680000.0,1,1,474,Jimme Pang,21 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3544.3,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60110768
+60110801,Midtown Modern,Sale,1680000.0,1,1,474,Gelene Ong,21 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3544.3,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60110801
+60132033,Concourse Skyline,Sale,1700000.0,1,1,818,Matthias Chia 谢金城,24 Sep 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,2078.24,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-60132033
+60132956,Midtown Modern,Sale,1650000.0,1,1,474,MH Quek,20 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3481.01,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60132956
+25631029,Concourse Skyline,Sale,2500000.0,2,2,1152,Roy Fok,20 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,2170.14,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-25631029
+24446158,Midtown Bay,Sale,2592000.0,2,2,732,Murphy Lee 李国聪,20 Sep 2025,122 Beach Road,EW12 Bugis MRT Station,410,3540.98,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-24446158
+25066953,Midtown Bay,Sale,2468000.0,2,2,743,Murphy Lee 李国聪,20 Sep 2025,122 Beach Road,EW12 Bugis MRT Station,410,3321.67,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-25066953
+24446309,Midtown Bay,Sale,1588000.0,1,1,409,Murphy Lee 李国聪,20 Sep 2025,122 Beach Road,EW12 Bugis MRT Station,410,3882.64,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-24446309
+25067037,Midtown Bay,Sale,2810000.0,2,2,990,Murphy Lee 李国聪,20 Sep 2025,122 Beach Road,EW12 Bugis MRT Station,410,2838.38,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-25067037
+25474023,The M,Sale,1520000.0,2,1,592,Aaron Wan 温伟雄,20 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2567.57,https://www.propertyguru.com.sg/listing/for-sale-the-m-25474023
+60027760,The M,Sale,2050000.0,2,2,764,Sherlyn Loh 罗备渟,20 Sep 2025,36 Middle Road,CC3 Esplanade MRT Station,480,2683.25,https://www.propertyguru.com.sg/listing/for-sale-the-m-60027760
+25271124,Midtown Bay,Sale,2468000.0,2,2,743,Teo Jeri,20 Sep 2025,120 Beach Road,CC3 Esplanade MRT Station,520,3321.67,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-25271124
+25267475,Midtown Bay,Sale,4713000.0,3,3,1324,Teo Jeri,20 Sep 2025,120 Beach Road,CC3 Esplanade MRT Station,520,3559.67,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-25267475
+25635138,Midtown Modern,Sale,2450000.0,2,2,721,Benny Low,20 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3398.06,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25635138
+60110265,Midtown Bay,Sale,1540000.0,1,1,463,Lucas Chiew,20 Sep 2025,122 Beach Road,EW12 Bugis MRT Station,410,3326.13,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-60110265
+25314292,Southbank,Sale,8000000.0,4,4,4155,LESTER CHEN,20 Sep 2025,881 North Bridge Road,EW11 Lavender MRT Station,450,1925.39,https://www.propertyguru.com.sg/listing/for-sale-southbank-25314292
+60027154,The M,Sale,2050000.0,2,2,764,Germaine Tan,20 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2683.25,https://www.propertyguru.com.sg/listing/for-sale-the-m-60027154
+25111198,Midtown Modern,Sale,1320000.0,1,1,409,Ling Wong 王秀玲,20 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3227.38,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25111198
+60065374,Concourse Skyline,Sale,1549000.0,1,1,872,Pierce Goh,20 Sep 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,1776.38,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-60065374
+60128072,The M,Sale,2000000.0,2,1,667,Shaun Seet 薛永兴,20 Sep 2025,36 Middle Road,CC3 Esplanade MRT Station,480,2998.5,https://www.propertyguru.com.sg/listing/for-sale-the-m-60128072
+24574853,Concourse Skyline,Sale,1588888.0,1,1,840,Quek Fu Jin,20 Sep 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,1891.53,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-24574853
+24573497,The M,Sale,1149999.0,-1,1,409,Quek Fu Jin,20 Sep 2025,32 Middle Road,CC3 Esplanade MRT Station,480,2811.73,https://www.propertyguru.com.sg/listing/for-sale-the-m-24573497
+23922087,Midtown Modern,Sale,1450000.0,1,1,474,Shermen Han,20 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3059.07,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-23922087
+60074082,The M,Sale,1100000.0,1,1,441,Andy Ea,20 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2494.33,https://www.propertyguru.com.sg/listing/for-sale-the-m-60074082
+25570543,South Beach Residences,Sale,5880000.0,2,2,1249,Catherine Chiam,20 Sep 2025,28 South Beach Road,CC3 Esplanade MRT Station,290,4707.77,https://www.propertyguru.com.sg/listing/for-sale-south-beach-residences-25570543
+60096329,DUO Residences,Sale,1800000.0,1,1,700,Agatha Neo,20 Sep 2025,1 Fraser Street,EW12 Bugis MRT Station,250,2571.43,https://www.propertyguru.com.sg/listing/for-sale-duo-residences-60096329
+60077981,The M,Sale,999999.0,-1,1,409,Marvin Ng K H,20 Sep 2025,32 Middle Road,CC3 Esplanade MRT Station,480,2444.99,https://www.propertyguru.com.sg/listing/for-sale-the-m-60077981
+24279627,The M,Sale,1340000.0,2,1,527,Luke Lim,20 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2542.69,https://www.propertyguru.com.sg/listing/for-sale-the-m-24279627
+24762740,The M,Sale,1188000.0,1,1,431,Lizzy Zhou,20 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2756.38,https://www.propertyguru.com.sg/listing/for-sale-the-m-24762740
+60070397,Aurea,Sale,1765000.0,2,2,635,Lim Chew Yee,20 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2779.53,https://www.propertyguru.com.sg/listing/for-sale-aurea-60070397
+60070381,Aurea,Sale,11572665.0,5,5,3251,Lim Chew Yee,20 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,3559.72,https://www.propertyguru.com.sg/listing/for-sale-aurea-60070381
+60070373,Aurea,Sale,5186000.0,4,4,1798,Lim Chew Yee,20 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2884.32,https://www.propertyguru.com.sg/listing/for-sale-aurea-60070373
+24729078,South Beach Residences,Sale,5880000.0,2,2,1249,Ivan Lam,20 Sep 2025,28 South Beach Road,CC3 Esplanade MRT Station,290,4707.77,https://www.propertyguru.com.sg/listing/for-sale-south-beach-residences-24729078
+25569923,Aurea,Sale,2632000.0,3,2,1001,Helen Yap,21 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2629.37,https://www.propertyguru.com.sg/listing/for-sale-aurea-25569923
+24918304,The M,Sale,1650000.0,2,1,592,Tee Wan Kee,19 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2787.16,https://www.propertyguru.com.sg/listing/for-sale-the-m-24918304
+60088719,Midtown Bay,Sale,4600000.0,3,3,1324,Teng Mary,19 Sep 2025,120 Beach Road,CC3 Esplanade MRT Station,520,3474.32,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-60088719
+25382090,The M,Sale,1350000.0,1,1,527,Tristan Tan,19 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2561.67,https://www.propertyguru.com.sg/listing/for-sale-the-m-25382090
+60109336,Midtown Modern,Sale,2799000.0,3,2,904,Raymond Fu,19 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3096.24,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60109336
+24964940,Concourse Skyline,Sale,6000000.0,3,5,2174,Shirlayne Lim,19 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,2759.89,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-24964940
+60080977,Midtown Modern,Sale,2380000.0,2,1,635,Lisa Liu,19 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3748.03,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60080977
+25356073,Midtown Bay,Sale,1430000.0,1,1,463,Georgia Hong,19 Sep 2025,120 Beach Road,CC3 Esplanade MRT Station,520,3088.55,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-25356073
+60131290,Aurea,Sale,2632000.0,3,2,1001,Wang Jing,20 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2629.37,https://www.propertyguru.com.sg/listing/for-sale-aurea-60131290
+60131272,Concourse Skyline,Sale,2100000.0,2,2,1119,Dean Lim,19 Sep 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,1876.68,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-60131272
+25274180,Midtown Bay,Sale,2290000.0,2,2,743,Hoe Tze Huat (何子发),19 Sep 2025,130 Beach Road,CC3 Esplanade MRT Station,500,3082.1,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-25274180
+25338715,Midtown Bay,Sale,2838000.0,3,2,1012,Crystan Lim,19 Sep 2025,122 Beach Road,EW12 Bugis MRT Station,410,2804.35,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-25338715
+25597161,The M,Sale,1200000.0,1,1,431,Cheryl Goh,19 Sep 2025,36 Middle Road,CC3 Esplanade MRT Station,480,2784.22,https://www.propertyguru.com.sg/listing/for-sale-the-m-25597161
+23859562,The M,Sale,1688888.0,2,1,614,Kum Soon,19 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2750.63,https://www.propertyguru.com.sg/listing/for-sale-the-m-23859562
+24192331,The M,Sale,1550000.0,1,1,527,Tricia Lim,19 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2941.18,https://www.propertyguru.com.sg/listing/for-sale-the-m-24192331
+60117933,Aurea,Sale,4080510.0,4,4,1442,Jolene Koh,19 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2829.76,https://www.propertyguru.com.sg/listing/for-sale-aurea-60117933
+25576661,The M,Sale,2038000.0,2,2,753,Jack Ng,19 Sep 2025,36 Middle Road,CC3 Esplanade MRT Station,480,2706.51,https://www.propertyguru.com.sg/listing/for-sale-the-m-25576661
+60117790,Aurea,Sale,2632000.0,3,2,1001,Jolene Koh,19 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2629.37,https://www.propertyguru.com.sg/listing/for-sale-aurea-60117790
+60069730,Midtown Bay,Sale,1580000.0,1,1,463,Bryan Koh,19 Sep 2025,122 Beach Road,EW12 Bugis MRT Station,410,3412.53,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-60069730
+24585650,The M,Sale,1188888.0,-1,1,407,Geraldine Ang,19 Sep 2025,32 Middle Road,CC3 Esplanade MRT Station,480,2921.1,https://www.propertyguru.com.sg/listing/for-sale-the-m-24585650
+60131082,Concourse Skyline,Sale,1880000.0,1,1,872,Dean Lim,19 Sep 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,2155.96,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-60131082
+25571456,The M,Sale,1480000.0,1,1,527,Adrian See,19 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2808.35,https://www.propertyguru.com.sg/listing/for-sale-the-m-25571456
+25293699,The M,Sale,1250000.0,1,1,409,Damien Ong,19 Sep 2025,32 Middle Road,CC3 Esplanade MRT Station,480,3056.23,https://www.propertyguru.com.sg/listing/for-sale-the-m-25293699
+25014020,Midtown Modern,Sale,2100000.0,2,1,635,Hannah Zhong Hanmei,19 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3307.09,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25014020
+25269505,The M,Sale,1849999.0,2,2,667,Lester T.,19 Sep 2025,36 Middle Road,CC3 Esplanade MRT Station,480,2773.61,https://www.propertyguru.com.sg/listing/for-sale-the-m-25269505
+60110787,Midtown Modern,Sale,2800000.0,3,2,904,Gelene Ong,19 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3097.35,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60110787
+25107835,Midtown Modern,Sale,3250000.0,3,2,1066,Jason Ng,19 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3048.78,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25107835
+60125278,Midtown Modern,Sale,1350000.0,1,1,409,Sybil Yap,19 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3300.73,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60125278
+25090163,The M,Sale,1350000.0,1,1,527,Dennis Lim,19 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2561.67,https://www.propertyguru.com.sg/listing/for-sale-the-m-25090163
+24819759,South Beach Residences,Sale,7080000.0,3,3,1744,Lisa Luo,19 Sep 2025,28 South Beach Road,CC3 Esplanade MRT Station,290,4059.63,https://www.propertyguru.com.sg/listing/for-sale-south-beach-residences-24819759
+25278303,Midtown Bay,Sale,1460000.0,1,1,409,Priscilla Loh,18 Sep 2025,120 Beach Road,CC3 Esplanade MRT Station,520,3569.68,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-25278303
+25522895,Aurea,Sale,2594000.0,3,2,1001,Sean Kok 郭兆南,18 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2591.41,https://www.propertyguru.com.sg/listing/for-sale-aurea-25522895
+25506701,Aurea,Sale,1765000.0,2,1,635,Celine Kuan,18 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2779.53,https://www.propertyguru.com.sg/listing/for-sale-aurea-25506701
+60105112,Midtown Bay,Sale,2585000.0,2,2,743,Vincent Chow,18 Sep 2025,120 Beach Road,CC3 Esplanade MRT Station,520,3479.14,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-60105112
+60034357,Midtown Bay,Sale,1299999.0,-1,1,409,Surya Gunawan,18 Sep 2025,122 Beach Road,EW12 Bugis MRT Station,410,3178.48,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-60034357
+25479550,The M,Sale,1200000.0,1,1,527,Jesper Kow Zhong Jun,18 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2277.04,https://www.propertyguru.com.sg/listing/for-sale-the-m-25479550
+60039039,Midtown Modern,Sale,1630000.0,1,1,474,Marcus Ang,18 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3438.82,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60039039
+60106734,Concourse Skyline,Sale,2388888.0,2,2,1163,Yvonne Chia,18 Sep 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,2054.07,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-60106734
+23207188,The M,Sale,1500000.0,2,1,527,Ann Lee,18 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2846.3,https://www.propertyguru.com.sg/listing/for-sale-the-m-23207188
+25421575,Midtown Bay,Sale,2488000.0,2,2,753,Calvin Foo  符致祥,18 Sep 2025,120 Beach Road,CC3 Esplanade MRT Station,520,3304.12,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-25421575
+60130044,Aurea,Sale,5186105.0,4,4,1798,Jolene Koh,18 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2884.37,https://www.propertyguru.com.sg/listing/for-sale-aurea-60130044
+60130019,Aurea,Sale,1933000.0,2,2,710,Jolene Koh,18 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2722.54,https://www.propertyguru.com.sg/listing/for-sale-aurea-60130019
+60129856,Concourse Skyline,Sale,1750520.0,1,1,818,Celine Kong,18 Sep 2025,302 Beach Road,CC5 Nicoll Highway MRT Station,340,2140.0,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-60129856
+24895279,The M,Sale,1108000.0,-1,1,409,Wang ZhiHong,18 Sep 2025,32 Middle Road,CC3 Esplanade MRT Station,480,2709.05,https://www.propertyguru.com.sg/listing/for-sale-the-m-24895279
+25503153,Midtown Modern,Sale,1880000.0,2,1,592,Michelle Tan,18 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3175.68,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25503153
+25286445,Concourse Skyline,Sale,1750000.0,1,1,818,Eldora Lie,18 Sep 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,2139.36,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-25286445
+24688694,The M,Sale,2050000.0,2,2,764,Irene Yap,18 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2683.25,https://www.propertyguru.com.sg/listing/for-sale-the-m-24688694
+25377103,The M,Sale,1500000.0,1,1,527,Pristine Lim,18 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2846.3,https://www.propertyguru.com.sg/listing/for-sale-the-m-25377103
+60110148,The M,Sale,1400000.0,1,1,463,Kelvin Ong,18 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,3023.76,https://www.propertyguru.com.sg/listing/for-sale-the-m-60110148
+25302352,South Beach Residences,Sale,16000000.0,4,7,4446,Julian Li,18 Sep 2025,28 South Beach Road,CC3 Esplanade MRT Station,290,3598.74,https://www.propertyguru.com.sg/listing/for-sale-south-beach-residences-25302352
+60029290,Midtown Modern,Sale,1390000.0,1,1,409,Charlie Goh,17 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3398.53,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60029290
+25473586,Concourse Skyline,Sale,1850000.0,1,1,872,Peter Lee,17 Sep 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,2121.56,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-25473586
+25600988,The M,Sale,1700000.0,2,1,614,Kaylee Sng,17 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2768.73,https://www.propertyguru.com.sg/listing/for-sale-the-m-25600988
+24758513,The M,Sale,1699999.0,2,1,635,George Wong,17 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2677.16,https://www.propertyguru.com.sg/listing/for-sale-the-m-24758513
+24816906,The M,Sale,1199999.0,1,1,527,George Wong,17 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2277.04,https://www.propertyguru.com.sg/listing/for-sale-the-m-24816906
+24060550,Midtown Modern,Sale,1395000.0,1,1,474,Elson Tay 郑祖德,24 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,2943.04,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-24060550
+24966172,Midtown Modern,Sale,2360000.0,2,2,721,Willy Zhuang Zhengda,17 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3273.23,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-24966172
+25257188,The M,Sale,1100000.0,-1,1,420,Jonathan Pan,17 Sep 2025,32 Middle Road,CC3 Esplanade MRT Station,480,2619.05,https://www.propertyguru.com.sg/listing/for-sale-the-m-25257188
+25429915,Concourse Skyline,Sale,2950000.0,3,3,1442,RONALD,17 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,2045.77,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-25429915
+25412651,The M,Sale,1680000.0,2,1,592,Gina Tng,17 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2837.84,https://www.propertyguru.com.sg/listing/for-sale-the-m-25412651
+22370120,The M,Sale,1068888.0,-1,1,409,Cindra Sng,17 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2613.42,https://www.propertyguru.com.sg/listing/for-sale-the-m-22370120
+24792491,The M,Sale,1908000.0,2,1,614,Kelvin Lam,17 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,3107.49,https://www.propertyguru.com.sg/listing/for-sale-the-m-24792491
+25632096,The M,Sale,1698888.0,2,1,592,Francis Lee,17 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2869.74,https://www.propertyguru.com.sg/listing/for-sale-the-m-25632096
+24496266,Midtown Modern,Sale,1630000.0,1,1,474,Perin Chiam,19 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3438.82,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-24496266
+24929001,Midtown Modern,Sale,1400000.0,1,1,409,Eric Lee,18 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3422.98,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-24929001
+21380732,DUO Residences,Sale,1560000.0,1,1,721,Aaron Pan,17 Sep 2025,1 Fraser Street,EW12 Bugis MRT Station,250,2163.66,https://www.propertyguru.com.sg/listing/for-sale-duo-residences-21380732
+25603545,Midtown Modern,Sale,2400000.0,2,2,721,Andy Tan,17 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3328.71,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25603545
+25372246,Midtown Modern,Sale,1399000.0,1,1,409,Sarah Wong,17 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3420.54,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25372246
+23981155,Concourse Skyline,Sale,1720000.0,1,1,861,Herbert Benard,17 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,1997.68,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-23981155
+60029491,The M,Sale,1450000.0,1,1,527,Tricia Lim,17 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2751.42,https://www.propertyguru.com.sg/listing/for-sale-the-m-60029491
+60116984,Aurea,Sale,5186105.0,4,4,1798,Felicia Tan Yi Jie,16 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2884.37,https://www.propertyguru.com.sg/listing/for-sale-aurea-60116984
+60085285,Concourse Skyline,Sale,1850000.0,1,1,829,Conrad Chow,18 Sep 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,2231.6,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-60085285
+25476875,Sultan Gate Place,Sale,3350000.0,3,3,1453,Jason Quek,16 Sep 2025,1 Sultan Gate,CC5 Nicoll Highway MRT Station,470,2305.57,https://www.propertyguru.com.sg/listing/for-sale-sultan-gate-place-25476875
+25536265,Midtown Bay,Sale,1613000.0,1,1,452,Jayden Teoh,16 Sep 2025,120 Beach Road,CC3 Esplanade MRT Station,520,3568.58,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-25536265
+60043150,The M,Sale,2100000.0,2,1,732,Jonathan Koh,16 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2868.85,https://www.propertyguru.com.sg/listing/for-sale-the-m-60043150
+24977555,The M,Sale,1088888.0,-1,1,409,Robert Ng,16 Sep 2025,32 Middle Road,CC3 Esplanade MRT Station,480,2662.32,https://www.propertyguru.com.sg/listing/for-sale-the-m-24977555
+60048815,Midtown Modern,Sale,2400000.0,2,2,721,Cheryl Aw,18 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3328.71,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60048815
+25032488,Midtown Modern,Sale,2200000.0,2,1,635,Joey Tham LY,16 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3464.57,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25032488
+24194344,The M,Sale,1780000.0,2,1,592,Clement Chew,17 Sep 2025,36 Middle Road,CC3 Esplanade MRT Station,480,3006.76,https://www.propertyguru.com.sg/listing/for-sale-the-m-24194344
+25465431,The M,Sale,1500000.0,1,1,527,Philip Peh,16 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2846.3,https://www.propertyguru.com.sg/listing/for-sale-the-m-25465431
+25413842,The M,Sale,2250000.0,2,2,764,Jimme Pang,16 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2945.03,https://www.propertyguru.com.sg/listing/for-sale-the-m-25413842
+25276639,Aurea,Sale,2630000.0,3,2,1001,Carrie Chin 炘然,16 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2627.37,https://www.propertyguru.com.sg/listing/for-sale-aurea-25276639
+60025361,Aurea,Sale,2632000.0,3,2,1001,Matthew Leo,16 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2629.37,https://www.propertyguru.com.sg/listing/for-sale-aurea-60025361
+21422188,Concourse Skyline,Sale,1460000.0,1,1,797,Quek Yee Yong,16 Sep 2025,300 Beach Road,CC5 Nicoll Highway MRT Station,340,1831.87,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-21422188
+25093970,The M,Sale,1200000.0,2,1,527,Abby Wong,16 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2277.04,https://www.propertyguru.com.sg/listing/for-sale-the-m-25093970
+24848333,The M,Sale,1450000.0,1,1,527,Loh Audrey,16 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2751.42,https://www.propertyguru.com.sg/listing/for-sale-the-m-24848333
+25553589,The M,Sale,1999900.0,2,2,721,Hui Sann Kwok,16 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2773.79,https://www.propertyguru.com.sg/listing/for-sale-the-m-25553589
+25136592,Midtown Modern,Sale,1400000.0,1,1,409,Patricia Lok,11 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3422.98,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25136592
+24341939,Southbank,Sale,7880000.0,4,5,4155,Jason Thoh,16 Sep 2025,881 North Bridge Road,EW11 Lavender MRT Station,450,1896.51,https://www.propertyguru.com.sg/listing/for-sale-southbank-24341939
+25543762,The M,Sale,1580000.0,1,1,527,Irene Tan,16 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2998.1,https://www.propertyguru.com.sg/listing/for-sale-the-m-25543762
+25423812,The M,Sale,1999999.0,2,1,667,PF GUO 郭培烽,16 Sep 2025,36 Middle Road,CC3 Esplanade MRT Station,480,2998.5,https://www.propertyguru.com.sg/listing/for-sale-the-m-25423812
+25193522,Midtown Bay,Sale,2810000.0,2,2,990,Michael Chin 陈俊雄,16 Sep 2025,128 Beach Road,CC3 Esplanade MRT Station,550,2838.38,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-25193522
+24170138,Midtown Bay,Sale,4691000.0,3,3,1324,Michael Chin 陈俊雄,16 Sep 2025,120 Beach Road,CC3 Esplanade MRT Station,520,3543.05,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-24170138
+60121243,Concourse Skyline,Sale,2250000.0,2,2,1163,Francis Low,16 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,1934.65,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-60121243
+60047606,Concourse Skyline,Sale,2100000.0,2,2,1119,Geryl Lim,18 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,1876.68,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-60047606
+60126653,Aurea,Sale,1765000.0,2,2,635,Michael Wong,15 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2779.53,https://www.propertyguru.com.sg/listing/for-sale-aurea-60126653
+25604787,Midtown Modern,Sale,1480000.0,1,1,409,Perry Koh,15 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3618.58,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25604787
+60126298,Aurea,Sale,1765000.0,2,2,635,Michelle Chua,15 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2779.53,https://www.propertyguru.com.sg/listing/for-sale-aurea-60126298
+25485182,Concourse Skyline,Sale,3385395.0,3,2,1668,Arthur Loo,15 Sep 2025,302 Beach Road,CC5 Nicoll Highway MRT Station,340,2029.61,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-25485182
+25485181,Concourse Skyline,Sale,1620000.0,1,1,818,Arthur Loo,15 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,1980.44,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-25485181
+60002992,Midtown Bay,Sale,1580000.0,1,1,452,Badd Ramle,15 Sep 2025,122 Beach Road,EW12 Bugis MRT Station,410,3495.58,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-60002992
+60126157,DUO Residences,Sale,1289999.0,1,1,614,Amber Li,15 Sep 2025,1 Fraser Street,EW12 Bugis MRT Station,250,2100.98,https://www.propertyguru.com.sg/listing/for-sale-duo-residences-60126157
+23330846,Concourse Skyline,Sale,5486000.0,4,4,2142,Arthur Loo,15 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,2561.16,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-23330846
+25439673,The M,Sale,1300000.0,1,1,527,Madeline Koo,15 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2466.79,https://www.propertyguru.com.sg/listing/for-sale-the-m-25439673
+24484184,DUO Residences,Sale,1650000.0,1,1,689,Wesley Lee,15 Sep 2025,1 Fraser Street,EW12 Bugis MRT Station,250,2394.78,https://www.propertyguru.com.sg/listing/for-sale-duo-residences-24484184
+25257511,Aurea,Sale,5186000.0,4,4,1798,Stan Lee 李俊豪,15 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2884.32,https://www.propertyguru.com.sg/listing/for-sale-aurea-25257511
+25257558,Aurea,Sale,4080000.0,4,4,1442,Stan Lee 李俊豪,15 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2829.4,https://www.propertyguru.com.sg/listing/for-sale-aurea-25257558
+25257552,Aurea,Sale,2632000.0,3,2,1001,Stan Lee 李俊豪,15 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2629.37,https://www.propertyguru.com.sg/listing/for-sale-aurea-25257552
+25257546,Aurea,Sale,1765000.0,2,2,635,Stan Lee 李俊豪,15 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2779.53,https://www.propertyguru.com.sg/listing/for-sale-aurea-25257546
+25547225,The M,Sale,1680000.0,2,1,614,Bridget Tan,15 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2736.16,https://www.propertyguru.com.sg/listing/for-sale-the-m-25547225
+25568069,Midtown Bay,Sale,1560000.0,1,1,409,Yonah Li,10 Sep 2025,122 Beach Road,EW12 Bugis MRT Station,410,3814.18,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-25568069
+25620723,The M,Sale,1180000.0,1,1,431,Daniel Kok Jun Jie,15 Sep 2025,36 Middle Road,CC3 Esplanade MRT Station,480,2737.82,https://www.propertyguru.com.sg/listing/for-sale-the-m-25620723
+60125619,Aurea,Sale,1930000.0,2,2,710,Carrie Chin 炘然,18 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2718.31,https://www.propertyguru.com.sg/listing/for-sale-aurea-60125619
+60060839,Midtown Modern,Sale,3330000.0,3,2,1066,Jesmond Lee,15 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3123.83,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60060839
+24764860,The M,Sale,1549999.0,1,1,484,George Wong,15 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,3202.48,https://www.propertyguru.com.sg/listing/for-sale-the-m-24764860
+25421937,The M,Sale,1349999.0,1,1,527,George Wong,15 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2561.67,https://www.propertyguru.com.sg/listing/for-sale-the-m-25421937
+25457644,Midtown Bay,Sale,1500000.0,1,1,409,Irene Quek,15 Sep 2025,122 Beach Road,EW12 Bugis MRT Station,410,3667.48,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-25457644
+25352679,Midtown Bay,Sale,1550000.0,1,1,409,Irene Quek,15 Sep 2025,122 Beach Road,EW12 Bugis MRT Station,410,3789.73,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-25352679
+25618751,Midtown Modern,Sale,1400000.0,1,1,474,Nicole Lee,15 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,2953.59,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25618751
+60120531,Midtown Bay,Sale,2468000.0,2,2,743,Crystan Lim,15 Sep 2025,122 Beach Road,EW12 Bugis MRT Station,410,3321.67,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-60120531
+24757263,The M,Sale,1690000.0,2,1,635,Cheryl Goh,15 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2661.42,https://www.propertyguru.com.sg/listing/for-sale-the-m-24757263
+24811880,The M,Sale,1194313.0,-1,1,409,Arun Kumar,15 Sep 2025,36 Middle Road,CC3 Esplanade MRT Station,480,2920.08,https://www.propertyguru.com.sg/listing/for-sale-the-m-24811880
+24810337,The M Condominium By Wing Tai,Sale,1194313.0,-1,1,409,Arun Kumar,15 Sep 2025,Middle Road,CC3 Esplanade MRT Station,480,2920.08,https://www.propertyguru.com.sg/listing/for-sale-the-m-condominium-by-wing-tai-24810337
+25576241,Midtown Modern,Sale,1449999.0,1,1,409,Vincent Tan,15 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3545.23,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25576241
+25622723,Aurea,Sale,2632000.0,3,2,1001,Eng Mai Leng,15 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2629.37,https://www.propertyguru.com.sg/listing/for-sale-aurea-25622723
+60125270,Aurea,Sale,1758000.0,2,2,635,James Lee,18 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2768.5,https://www.propertyguru.com.sg/listing/for-sale-aurea-60125270
+25607855,The M,Sale,1999999.0,2,1,614,James Ow,15 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,3257.33,https://www.propertyguru.com.sg/listing/for-sale-the-m-25607855
+24771919,Midtown Modern,Sale,1399000.0,1,1,409,Jensen Lee,14 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3420.54,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-24771919
+60124965,Aurea,Sale,2632000.0,3,2,1001,Beng Guan Ng,14 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2629.37,https://www.propertyguru.com.sg/listing/for-sale-aurea-60124965
+60124963,Aurea,Sale,5100000.0,4,3,1798,Michelle Chia,18 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2836.48,https://www.propertyguru.com.sg/listing/for-sale-aurea-60124963
+60124955,Aurea,Sale,1933000.0,2,2,710,Beng Guan Ng,14 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2722.54,https://www.propertyguru.com.sg/listing/for-sale-aurea-60124955
+60048051,The M,Sale,1680000.0,2,1,592,Vivian Khor,14 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2837.84,https://www.propertyguru.com.sg/listing/for-sale-the-m-60048051
+25282640,Concourse Skyline,Sale,1750000.0,1,1,818,Ashlyn Peh,14 Sep 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,2139.36,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-25282640
+22266940,THE M,Sale,1058000.0,-1,1,409,Riko Ashley,14 Sep 2025,MIDDLE ROAD,CC3 Esplanade MRT Station,460,2586.8,https://www.propertyguru.com.sg/listing/for-sale-the-m-22266940
+25586303,Midtown Modern,Sale,1550000.0,1,1,474,Bryan Cheng,14 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3270.04,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25586303
+24602896,The M,Sale,1740000.0,2,1,592,Khai .,14 Sep 2025,Middle Road,CC3 Esplanade MRT Station,460,2939.19,https://www.propertyguru.com.sg/listing/for-sale-the-m-24602896
+60124601,Aurea,Sale,1801000.0,2,2,646,Keith Chua,18 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2787.93,https://www.propertyguru.com.sg/listing/for-sale-aurea-60124601
+25288702,The M,Sale,1250000.0,-1,1,409,Ginny Tien (Ginnie Tien),14 Sep 2025,32 Middle Road,CC3 Esplanade MRT Station,480,3056.23,https://www.propertyguru.com.sg/listing/for-sale-the-m-25288702
+60014168,The M,Sale,1650888.0,2,1,592,Jia En Or,14 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2788.66,https://www.propertyguru.com.sg/listing/for-sale-the-m-60014168
+60096235,Aurea,Sale,2632000.0,3,2,1001,Raymond Ho,14 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2629.37,https://www.propertyguru.com.sg/listing/for-sale-aurea-60096235
+60071710,Midtown Modern,Sale,2500000.0,2,1,635,Terence Tan,14 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3937.01,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60071710
+60090039,Midtown Modern,Sale,2550000.0,2,2,721,Terence Tan,18 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3536.75,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60090039
+60090978,Midtown Modern,Sale,2500000.0,2,2,721,Marcus Ang,14 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3467.41,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60090978
+25274298,Midtown Bay,Sale,1588000.0,1,1,409,Jaclyn Cheong,13 Sep 2025,120 Beach Road,CC3 Esplanade MRT Station,520,3882.64,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-25274298
+25036956,South Beach Residences,Sale,5700000.0,3,3,1862,Vicky Mei,13 Sep 2025,28 South Beach Road,CC3 Esplanade MRT Station,290,3061.22,https://www.propertyguru.com.sg/listing/for-sale-south-beach-residences-25036956
+60074072,The M,Sale,1543500.0,1,1,441,CeLia Nunes,13 Sep 2025,36 Middle Road,CC3 Esplanade MRT Station,480,3500.0,https://www.propertyguru.com.sg/listing/for-sale-the-m-60074072
+25320735,The M,Sale,1194313.0,1,1,409,Pristine Lim,13 Sep 2025,32 Middle Road,CC3 Esplanade MRT Station,480,2920.08,https://www.propertyguru.com.sg/listing/for-sale-the-m-25320735
+25234917,The M,Sale,1700000.0,2,1,635,Yeo Wee Guan Clarence,13 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2677.17,https://www.propertyguru.com.sg/listing/for-sale-the-m-25234917
+25603601,Midtown Bay,Sale,1530000.0,1,1,452,Michelle Chia,19 Sep 2025,122 Beach Road,EW12 Bugis MRT Station,410,3384.96,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-25603601
+60101564,Midtown Modern,Sale,2032000.0,2,1,635,Michelle Chia,13 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3200.0,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60101564
+25293692,Midtown Modern,Sale,1418000.0,1,1,474,Michelle Tan,13 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,2991.56,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25293692
+60118053,Midtown Modern,Sale,2300000.0,2,1,635,Isaac Lim Jie Ming,18 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3622.05,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60118053
+24610716,Midtown Bay,Sale,1390000.0,1,1,452,Rayne Chua 蔡美慧,12 Sep 2025,122 Beach Road,EW12 Bugis MRT Station,410,3075.22,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-24610716
+25637932,The M,Sale,2168888.0,2,2,753,Dawn Jeslyn Lee 李籽嬴,12 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2880.33,https://www.propertyguru.com.sg/listing/for-sale-the-m-25637932
+22041615,Midtown Bay,Sale,2308000.0,2,2,732,Eric KANG (江瑞裕),12 Sep 2025,122 Beach Road,EW12 Bugis MRT Station,410,3153.01,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-22041615
+60003524,The M,Sale,1630000.0,2,1,614,Lowee Khoo,16 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2654.72,https://www.propertyguru.com.sg/listing/for-sale-the-m-60003524
+24976003,The M,Sale,1600000.0,1,1,527,Fion Gan,12 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,3036.05,https://www.propertyguru.com.sg/listing/for-sale-the-m-24976003
+25523545,❤️Former Golden Mile Complex! 不可错过! Own A Piece Of Singapore's Iconic Building,Sale,2632000.0,3,2,1001,Jerome Lim,12 Sep 2025,,CC5 Nicoll Highway MRT Station,520,2629.37,https://www.propertyguru.com.sg/listing/for-sale-former-golden-mile-complex-%E4%B8%8D%E5%8F%AF%E9%94%99%E8%BF%87-own-a-piece-of-singapore-s-iconic-building-25523545
+60081244,Aurea,Sale,5186000.0,4,4,1798,Raymond Ho,18 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2884.32,https://www.propertyguru.com.sg/listing/for-sale-aurea-60081244
+25032938,Midtown Modern,Sale,1880000.0,2,1,592,Frank Zheng 郑舜臣,12 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3175.68,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25032938
+23755944,The M,Sale,1720000.0,2,1,635,Shanel Liew,12 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2708.66,https://www.propertyguru.com.sg/listing/for-sale-the-m-23755944
+25371604,Midtown Bay,Sale,2688000.0,2,2,754,Lily Tang,12 Sep 2025,120 Beach Road,CC3 Esplanade MRT Station,520,3564.99,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-25371604
+24355170,The M,Sale,2200888.0,2,2,743,Lisa YAM,22 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2962.16,https://www.propertyguru.com.sg/listing/for-sale-the-m-24355170
+25390799,Southbank,Sale,7888888.0,4,5,4155,Joel Tan,12 Sep 2025,881 North Bridge Road,EW11 Lavender MRT Station,450,1898.65,https://www.propertyguru.com.sg/listing/for-sale-southbank-25390799
+25563761,Midtown Bay,Sale,2300000.0,2,2,732,Carrie Chin 炘然,15 Sep 2025,120 Beach Road,CC3 Esplanade MRT Station,520,3142.08,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-25563761
+25576663,Midtown Modern,Sale,1320000.0,1,1,407,Terence Tan,12 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3243.24,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25576663
+24745818,The M,Sale,2148000.0,2,2,721,Cleo See,12 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2979.2,https://www.propertyguru.com.sg/listing/for-sale-the-m-24745818
+25414595,Midtown Bay,Sale,3380000.0,2,2,1022,Alicia Chan,12 Sep 2025,122 Beach Road,EW12 Bugis MRT Station,410,3307.24,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-25414595
+25642140,The M,Sale,1068800.0,-1,1,409,JJ Ivan Lim 林俊杰,12 Sep 2025,32 Middle Road,CC3 Esplanade MRT Station,480,2613.2,https://www.propertyguru.com.sg/listing/for-sale-the-m-25642140
+24646720,The M,Sale,1600000.0,1,1,527,Melvin Tan,12 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,3036.05,https://www.propertyguru.com.sg/listing/for-sale-the-m-24646720
+25365738,The M,Sale,1850000.0,2,1,592,Nicholas Feng,12 Sep 2025,36 Middle Road,CC3 Esplanade MRT Station,480,3125.0,https://www.propertyguru.com.sg/listing/for-sale-the-m-25365738
+60120556,Aurea,Sale,1765000.0,2,2,635,Far East Organization,12 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2779.53,https://www.propertyguru.com.sg/listing/for-sale-aurea-60120556
+60047642,Concourse Skyline,Sale,2100000.0,2,2,1119,K L Goh,12 Sep 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,1876.68,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-60047642
+24739838,The M,Sale,2200000.0,2,2,764,Leo Lee,12 Sep 2025,36 Middle Road,CC3 Esplanade MRT Station,480,2879.58,https://www.propertyguru.com.sg/listing/for-sale-the-m-24739838
+60122530,Aurea,Sale,5186000.0,4,3,1798,Seah Siew Lin,21 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2884.32,https://www.propertyguru.com.sg/listing/for-sale-aurea-60122530
+60122529,Aurea,Sale,4080510.0,4,3,1442,Seah Siew Lin,18 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2829.76,https://www.propertyguru.com.sg/listing/for-sale-aurea-60122529
+60122528,Aurea,Sale,2632000.0,3,2,1001,Seah Siew Lin,18 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2629.37,https://www.propertyguru.com.sg/listing/for-sale-aurea-60122528
+60122525,Aurea,Sale,1765000.0,2,2,635,Seah Siew Lin,14 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2779.53,https://www.propertyguru.com.sg/listing/for-sale-aurea-60122525
+60119057,Concourse Skyline,Sale,2400000.0,1,2,1173,Aaron Koh,11 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,2046.04,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-60119057
+60079298,The M,Sale,1980000.0,2,2,721,Eqsha Kaur,18 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2746.19,https://www.propertyguru.com.sg/listing/for-sale-the-m-60079298
+25589663,Concourse Skyline,Sale,1630000.0,1,1,807,Clarence Foo 符策铭,11 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,2019.83,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-25589663
+25618489,Midtown Modern,Sale,1400000.0,1,1,474,Jaime Lim,11 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,2953.59,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25618489
+25458886,The M,Sale,1000000.0,1,1,409,Zoelyn Lim,11 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2444.99,https://www.propertyguru.com.sg/listing/for-sale-the-m-25458886
+25636425,Midtown Modern,Sale,1488000.0,1,1,409,Jason Ho,11 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3638.14,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25636425
+25263442,Midtown Modern,Sale,3200000.0,3,2,1066,Jasmine Teo,11 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3001.88,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25263442
+25522867,Aurea,Sale,1710000.0,2,2,635,Sean Kok 郭兆南,11 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2692.91,https://www.propertyguru.com.sg/listing/for-sale-aurea-25522867
+25605263,The M,Sale,1800000.0,2,1,614,Hedy Tan,11 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2931.6,https://www.propertyguru.com.sg/listing/for-sale-the-m-25605263
+25565701,Midtown Bay,Sale,4714000.0,3,3,1324,Elaine Goh,11 Sep 2025,120 Beach Road,CC3 Esplanade MRT Station,520,3560.42,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-25565701
+25568519,The M,Sale,1250000.0,1,1,452,Florence Lim,11 Sep 2025,32 Middle Road,CC3 Esplanade MRT Station,480,2765.49,https://www.propertyguru.com.sg/listing/for-sale-the-m-25568519
+25519344,Aurea,Sale,1765000.0,2,2,635,Lily Tang,11 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2779.53,https://www.propertyguru.com.sg/listing/for-sale-aurea-25519344
+25519347,Aurea,Sale,5187000.0,4,3,1798,Lily Tang,11 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2884.87,https://www.propertyguru.com.sg/listing/for-sale-aurea-25519347
+25519348,Aurea,Sale,4080600.0,4,3,1442,Lily Tang,11 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2829.82,https://www.propertyguru.com.sg/listing/for-sale-aurea-25519348
+25519345,Aurea,Sale,2632000.0,3,2,1001,Lily Tang,11 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2629.37,https://www.propertyguru.com.sg/listing/for-sale-aurea-25519345
+60063425,The M,Sale,1798000.0,2,1,635,Dominic Sim Sobak,11 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2831.5,https://www.propertyguru.com.sg/listing/for-sale-the-m-60063425
+25633622,Midtown Modern,Sale,1999000.0,2,1,592,Cherie Yu,11 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3376.69,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25633622
+60005277,Midtown Modern,Sale,2688888.0,3,2,904,Jas Chua,11 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,2974.43,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60005277
+25555292,The M,Sale,1850000.0,2,1,635,Gerald Cheang,11 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2913.39,https://www.propertyguru.com.sg/listing/for-sale-the-m-25555292
+24857204,The M,Sale,1700000.0,2,1,635,Sylvester Ee,11 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2677.17,https://www.propertyguru.com.sg/listing/for-sale-the-m-24857204
+60032917,The M,Sale,1100000.0,1,1,462,Eliza Tan,11 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2380.95,https://www.propertyguru.com.sg/listing/for-sale-the-m-60032917
+25616264,Midtown Modern,Sale,3000000.0,3,2,904,Celest Goh,11 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3318.58,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25616264
+25425401,Midtown Modern,Sale,3250000.0,3,2,1066,Rayson Heng,11 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3048.78,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25425401
+60121356,Concourse Skyline,Sale,2399000.0,1,2,1151,Tan Yong Jun Jason,11 Sep 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,2084.27,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-60121356
+24981829,Midtown Modern,Sale,2100000.0,2,1,635,Ben XIA 夏天鹏,10 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3307.09,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-24981829
+25486620,South Beach Residences,Sale,13000000.0,4,4,2616,Melvyn Xu 许统书,10 Sep 2025,28 South Beach Road,CC3 Esplanade MRT Station,290,4969.42,https://www.propertyguru.com.sg/listing/for-sale-south-beach-residences-25486620
+25061052,The M,Sale,1690000.0,2,1,592,Melvyn Xu 许统书,10 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2854.73,https://www.propertyguru.com.sg/listing/for-sale-the-m-25061052
+25635052,The M,Sale,1850000.0,2,1,614,Shiwei Kwong,10 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,3013.03,https://www.propertyguru.com.sg/listing/for-sale-the-m-25635052
+25200114,Midtown Modern,Sale,3700000.0,3,2,1066,Raymond Soh,16 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3470.92,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25200114
+25576489,The M,Sale,1480000.0,1,1,527,Shawn Eu,10 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2808.35,https://www.propertyguru.com.sg/listing/for-sale-the-m-25576489
+60121041,Midtown Bay,Sale,2468000.0,2,2,743,Dennis Lim,10 Sep 2025,122 Beach Road,EW12 Bugis MRT Station,410,3321.67,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-60121041
+25346962,The M,Sale,1859000.0,2,1,592,Clement Chew,10 Sep 2025,36 Middle Road,CC3 Esplanade MRT Station,480,3140.2,https://www.propertyguru.com.sg/listing/for-sale-the-m-25346962
+25356842,Sunshine Plaza,Sale,1250000.0,1,1,592,Brandon Ng,10 Sep 2025,10 Prinsep Link,DT21 Bencoolen MRT Station,280,2111.49,https://www.propertyguru.com.sg/listing/for-sale-sunshine-plaza-25356842
+25388006,Midtown Modern,Sale,1980000.0,2,1,592,Yvonne Eng,10 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3344.59,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25388006
+25067109,The M,Sale,1750000.0,2,1,592,Raymond Koh,10 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2956.08,https://www.propertyguru.com.sg/listing/for-sale-the-m-25067109
+25621566,Midtown Modern,Sale,1400000.0,1,1,474,JOMIE LOW,10 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,2953.59,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25621566
+60014193,Aurea,Sale,1992700.0,2,2,710,Johnathan Ooi,10 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2806.62,https://www.propertyguru.com.sg/listing/for-sale-aurea-60014193
+25632924,The M,Sale,1200000.0,1,1,441,Jacqueline Low,10 Sep 2025,36 Middle Road,CC3 Esplanade MRT Station,480,2721.09,https://www.propertyguru.com.sg/listing/for-sale-the-m-25632924
+60081232,Aurea,Sale,4080510.0,4,4,1442,Raymond Ho,18 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2829.76,https://www.propertyguru.com.sg/listing/for-sale-aurea-60081232
+25555307,Concourse Skyline,Sale,1599000.0,1,1,861,Elle Cheong,10 Sep 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,1857.14,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-25555307
+25520678,Aurea,Sale,5240000.0,4,3,1798,Gary Zhuo 卓俊伟,9 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2914.35,https://www.propertyguru.com.sg/listing/for-sale-aurea-25520678
+25563019,Midtown Modern,Sale,2150000.0,2,1,635,Joel Tay Weijian,9 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3385.83,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25563019
+24561182,The M,Sale,1350000.0,1,1,527,Teo Sock Peng,9 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2561.67,https://www.propertyguru.com.sg/listing/for-sale-the-m-24561182
+60119494,Aurea,Sale,1801000.0,2,2,646,Jolene Koh,14 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2787.93,https://www.propertyguru.com.sg/listing/for-sale-aurea-60119494
+60119207,Aurea,Sale,1765000.0,2,2,635,Gerald Leong,9 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2779.53,https://www.propertyguru.com.sg/listing/for-sale-aurea-60119207
+60119202,Aurea,Sale,9726890.0,5,0,2863,Gerald Leong,9 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,3397.45,https://www.propertyguru.com.sg/listing/for-sale-aurea-60119202
+60119200,Aurea,Sale,2632000.0,3,2,1001,Gerald Leong,9 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2629.37,https://www.propertyguru.com.sg/listing/for-sale-aurea-60119200
+60119198,Aurea,Sale,4080510.0,4,3,1442,Gerald Leong,9 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2829.76,https://www.propertyguru.com.sg/listing/for-sale-aurea-60119198
+25181405,Concourse Skyline,Sale,2200000.0,2,2,1152,Lucas Hoh Jin Heng,9 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,1909.72,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-25181405
+25570982,Midtown Bay,Sale,1550000.0,1,1,409,Tracy Chiang,9 Sep 2025,120 Beach Road,CC3 Esplanade MRT Station,520,3789.73,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-25570982
+25068794,Midtown Modern,Sale,1635300.0,1,1,474,Sunny Tham 谭燕生,9 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3450.0,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25068794
+21955892,City Gate,Sale,2000000.0,1,1,474,Goh Hong Peng,9 Sep 2025,371 Beach Road,CC5 Nicoll Highway MRT Station,260,4219.41,https://www.propertyguru.com.sg/listing/for-sale-city-gate-21955892
+25322138,The M,Sale,1200000.0,1,1,409,May Loh,9 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2933.99,https://www.propertyguru.com.sg/listing/for-sale-the-m-25322138
+60041950,The M,Sale,2148000.0,2,2,721,Sheevonne Lau,9 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2979.2,https://www.propertyguru.com.sg/listing/for-sale-the-m-60041950
+24192883,Concourse Skyline,Sale,2200000.0,2,2,1152,Jimmy T C Chan,9 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,1909.72,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-24192883
+60118329,The M,Sale,1289000.0,1,1,527,Lester Lee,8 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2445.92,https://www.propertyguru.com.sg/listing/for-sale-the-m-60118329
+60058222,The M,Sale,1400000.0,2,1,527,Gina Ng,24 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2656.55,https://www.propertyguru.com.sg/listing/for-sale-the-m-60058222
+24126002,Midtown Bay,Sale,4714000.0,3,3,1324,Seah Siew Lin,8 Sep 2025,120 Beach Road,CC3 Esplanade MRT Station,520,3560.42,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-24126002
+24126000,Midtown Bay,Sale,2308000.0,2,2,732,Seah Siew Lin,8 Sep 2025,126 Beach Road,CC3 Esplanade MRT Station,490,3153.01,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-24126000
+23831580,Midtown Bay,Sale,1488000.0,1,1,409,Seah Siew Lin,8 Sep 2025,126 Beach Road,CC3 Esplanade MRT Station,490,3638.14,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-23831580
+60117756,Aurea,Sale,1765000.0,2,2,635,Yok Ng,8 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2779.53,https://www.propertyguru.com.sg/listing/for-sale-aurea-60117756
+24327816,The M,Sale,1457000.0,1,1,527,Linda Yang,8 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2764.71,https://www.propertyguru.com.sg/listing/for-sale-the-m-24327816
+25585792,Iconic Bugis | Rare 2+Study | Unbeatabe Price | 3 Mins MRT | High Rental Yield,Sale,2150000.0,2,2,753,Linda Yang,8 Sep 2025,Beach Road,CC3 Esplanade MRT Station,290,2855.25,https://www.propertyguru.com.sg/listing/for-sale-iconic-bugis-rare-2-study-unbeatabe-price-3-mins-mrt-high-rental-yield-25585792
+25063463,Midtown Modern,Sale,1520000.0,1,1,474,Soon Wei Jie,8 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3206.75,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25063463
+24443820,The M,Sale,2357000.0,3,2,732,Shawn Lai,8 Sep 2025,32 Middle Road,CC3 Esplanade MRT Station,480,3219.95,https://www.propertyguru.com.sg/listing/for-sale-the-m-24443820
+24085314,The M,Sale,1900000.0,2,1,635,Shawn Lai,8 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2992.13,https://www.propertyguru.com.sg/listing/for-sale-the-m-24085314
+25225578,Midtown Modern,Sale,2280000.0,2,1,635,Brenda Ong 王淑玲,8 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3590.55,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25225578
+60074102,Midtown Modern,Sale,1799999.0,2,1,592,Adeline Koh,8 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3040.54,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60074102
+60024948,Aurea,Sale,1898815.0,2,2,635,Ethan Lee C H,8 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2990.26,https://www.propertyguru.com.sg/listing/for-sale-aurea-60024948
+25446398,Midtown Bay,Sale,1700000.0,1,1,463,John Tan,8 Sep 2025,122 Beach Road,EW12 Bugis MRT Station,410,3671.71,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-25446398
+25593365,The M,Sale,1679999.0,2,1,592,Linda Peh,7 Sep 2025,36 Middle Road,CC3 Esplanade MRT Station,480,2837.84,https://www.propertyguru.com.sg/listing/for-sale-the-m-25593365
+25051362,The M,Sale,1980000.0,2,2,732,Norman Tan,7 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2704.92,https://www.propertyguru.com.sg/listing/for-sale-the-m-25051362
+60017497,Midtown Modern,Sale,1900000.0,2,1,592,Rayson Heng,7 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3209.46,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60017497
+25512321,The M,Sale,2280000.0,2,2,743,Esmond Goh,7 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,3068.64,https://www.propertyguru.com.sg/listing/for-sale-the-m-25512321
+60116978,Aurea,Sale,1765000.0,2,2,635,Lin Sallee 林玥廷,7 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2779.53,https://www.propertyguru.com.sg/listing/for-sale-aurea-60116978
+24793395,The M,Sale,2088888.0,2,2,753,Sharon Hu,7 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2774.09,https://www.propertyguru.com.sg/listing/for-sale-the-m-24793395
+25584722,The M,Sale,1100000.0,-1,1,409,Kenneth Khoo,7 Sep 2025,32 Middle Road,CC3 Esplanade MRT Station,480,2689.49,https://www.propertyguru.com.sg/listing/for-sale-the-m-25584722
+25167866,City Gate,Sale,1000000.0,1,1,452,Daniel Tan,7 Sep 2025,371 Beach Road,CC5 Nicoll Highway MRT Station,260,2212.39,https://www.propertyguru.com.sg/listing/for-sale-city-gate-25167866
+60116647,Aurea,Sale,2719000.0,3,2,1001,Winona Tan 陈沛如,7 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2716.28,https://www.propertyguru.com.sg/listing/for-sale-aurea-60116647
+60116302,Aurea,Sale,4080510.0,4,3,1442,Richa Mahajan,6 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2829.76,https://www.propertyguru.com.sg/listing/for-sale-aurea-60116302
+60116212,Aurea,Sale,4080510.0,4,3,1442,Michael Lim,6 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2829.76,https://www.propertyguru.com.sg/listing/for-sale-aurea-60116212
+60116232,Aurea,Sale,9726890.0,5,0,2863,Michael Lim,6 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,3397.45,https://www.propertyguru.com.sg/listing/for-sale-aurea-60116232
+60116235,Aurea,Sale,1765000.0,2,2,635,Michael Lim,6 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2779.53,https://www.propertyguru.com.sg/listing/for-sale-aurea-60116235
+60116295,Midtown Bay,Sale,2308000.0,2,2,732,Richa Mahajan,6 Sep 2025,122 Beach Road,EW12 Bugis MRT Station,410,3153.01,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-60116295
+25595432,Midtown Modern,Sale,3000000.0,3,2,904,KEN,6 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3318.58,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25595432
+60090985,Midtown Modern,Sale,3500000.0,3,2,1066,Marcus Ang,6 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3283.3,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60090985
+60073446,The M,Sale,1979999.0,2,2,721,Joseph Lee,6 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2746.18,https://www.propertyguru.com.sg/listing/for-sale-the-m-60073446
+24283968,The M,Sale,1105000.0,-1,1,409,Adrian Lee,6 Sep 2025,32 Middle Road,CC3 Esplanade MRT Station,480,2701.71,https://www.propertyguru.com.sg/listing/for-sale-the-m-24283968
+24793057,The M,Sale,1650000.0,2,1,592,Persis Tai 戴君如,6 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2787.16,https://www.propertyguru.com.sg/listing/for-sale-the-m-24793057
+14358877,Concourse Skyline,Sale,1650000.0,1,1,850,Jeremy See,6 Sep 2025,300 Beach Road,CC5 Nicoll Highway MRT Station,340,1941.18,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-14358877
+60063467,Concourse Skyline,Sale,1780000.0,1,1,829,Edwin Woon,6 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,2147.17,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-60063467
+24948233,Midtown Bay,Sale,2468000.0,2,2,743,Mike Yeo 杨宗平,6 Sep 2025,122 Beach Road,EW12 Bugis MRT Station,410,3321.67,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-24948233
+24946596,Midtown Bay,Sale,1488000.0,1,1,409,Mike Yeo 杨宗平,6 Sep 2025,122 Beach Road,EW12 Bugis MRT Station,410,3638.14,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-24946596
+25485083,Midtown Bay,Sale,1680000.0,1,1,527,Alvan Ng,5 Sep 2025,122 Beach Road,EW12 Bugis MRT Station,410,3187.86,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-25485083
+60059061,The M,Sale,1650000.0,2,1,592,Charlene Chai,5 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2787.16,https://www.propertyguru.com.sg/listing/for-sale-the-m-60059061
+25601507,Midtown Modern,Sale,2400000.0,2,1,635,Ng Pack Hong (Bird) 伍保衡,5 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3779.53,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25601507
+60010672,Midtown Modern,Sale,2500000.0,2,2,721,Khiew Yong Meng (Meng),5 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3467.41,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60010672
+60059579,The M,Sale,2100000.0,2,2,753,Winnie Lee,8 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2788.84,https://www.propertyguru.com.sg/listing/for-sale-the-m-60059579
+25117050,Midtown Modern,Sale,2188888.0,2,1,635,Benjamin Chen,5 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3447.07,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25117050
+25514568,Aurea,Sale,2632000.0,3,2,1001,Eric KANG (江瑞裕),5 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2629.37,https://www.propertyguru.com.sg/listing/for-sale-aurea-25514568
+25514532,Aurea,Sale,1765000.0,2,2,635,Eric KANG (江瑞裕),5 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2779.53,https://www.propertyguru.com.sg/listing/for-sale-aurea-25514532
+25514555,Aurea,Sale,5186105.0,4,4,1798,Eric KANG (江瑞裕),5 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2884.37,https://www.propertyguru.com.sg/listing/for-sale-aurea-25514555
+60089312,The M,Sale,1300000.0,1,1,463,Alyssa Ng,5 Sep 2025,32 Middle Road,CC3 Esplanade MRT Station,480,2807.78,https://www.propertyguru.com.sg/listing/for-sale-the-m-60089312
+25502877,The M,Sale,1200000.0,-1,1,409,Charmaine Chen,5 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2933.99,https://www.propertyguru.com.sg/listing/for-sale-the-m-25502877
+25514932,Midtown Modern,Sale,1550000.0,1,1,474,Elva Liang,5 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3270.04,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25514932
+60077043,Midtown Modern,Sale,1560000.0,1,1,474,Raymond Tan,5 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3291.14,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60077043
+25443019,The M,Sale,1630000.0,2,1,592,Yunfan Lu,5 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2753.38,https://www.propertyguru.com.sg/listing/for-sale-the-m-25443019
+24163422,The M,Sale,1790000.0,2,2,592,Lincoln Choo,5 Sep 2025,36 Middle Road,CC3 Esplanade MRT Station,480,3023.65,https://www.propertyguru.com.sg/listing/for-sale-the-m-24163422
+25363194,South Beach Residences,Sale,9000000.0,4,5,2260,Juddy Chung S Y,5 Sep 2025,28 South Beach Road,CC3 Esplanade MRT Station,290,3982.3,https://www.propertyguru.com.sg/listing/for-sale-south-beach-residences-25363194
+60078406,Midtown Bay,Sale,1580000.0,1,1,463,Adrian Koh,5 Sep 2025,122 Beach Road,EW12 Bugis MRT Station,410,3412.53,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-60078406
+25578022,Midtown Modern,Sale,2850000.0,3,2,904,Adrian Koh,5 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3152.65,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25578022
+24832743,Concourse Skyline,Sale,2480000.0,2,2,1163,Christopher Low,5 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,2132.42,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-24832743
+25612597,Midtown Modern,Sale,2050000.0,2,1,635,Yvone Wee 黄惠霞,9 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3228.35,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25612597
+24486999,The M,Sale,1850000.0,2,1,592,Desmond Yeo,5 Sep 2025,36 Middle Road,CC3 Esplanade MRT Station,480,3125.0,https://www.propertyguru.com.sg/listing/for-sale-the-m-24486999
+60078292,Concourse Skyline,Sale,2250000.0,2,2,1163,Kezia Lim,18 Sep 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,1934.65,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-60078292
+60114014,Midtown Bay,Sale,1588000.0,1,1,463,Marn Lee,18 Sep 2025,122 Beach Road,EW12 Bugis MRT Station,410,3429.81,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-60114014
+60013474,The M,Sale,1650000.0,2,1,592,Clarabel Chin,4 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2787.16,https://www.propertyguru.com.sg/listing/for-sale-the-m-60013474
+25278957,Midtown Bay,Sale,1488000.0,1,1,409,Rachael Chew,4 Sep 2025,122 Beach Road,EW12 Bugis MRT Station,410,3638.14,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-25278957
+25089939,South Beach Residences,Sale,7800000.0,2,3,1873,Seah Yam Sengh,4 Sep 2025,28 South Beach Road,CC3 Esplanade MRT Station,290,4164.44,https://www.propertyguru.com.sg/listing/for-sale-south-beach-residences-25089939
+60047603,Concourse Skyline,Sale,1880000.0,1,1,872,Geryl Lim,4 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,2155.96,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-60047603
+60095022,Concourse Skyline,Sale,2388888.0,2,2,1163,Clare Wei,4 Sep 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,2054.07,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-60095022
+25132921,Concourse Skyline,Sale,1600000.0,1,1,818,MH Quek,4 Sep 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,1955.99,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-25132921
+25228568,South Beach Residences,Sale,4100000.0,2,2,1216,Julian Li,4 Sep 2025,28 South Beach Road,CC3 Esplanade MRT Station,290,3371.71,https://www.propertyguru.com.sg/listing/for-sale-south-beach-residences-25228568
+60047626,Concourse Skyline,Sale,1880000.0,1,1,872,K L Goh,4 Sep 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,2155.96,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-60047626
+60112795,Midtown Bay,Sale,4714000.0,3,3,1324,Eric Enyo 杨家祥,4 Sep 2025,120 Beach Road,CC3 Esplanade MRT Station,520,3560.42,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-60112795
+60052915,Concourse Skyline,Sale,2100000.0,2,2,1119,May Tan,3 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,1876.68,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-60052915
+24133413,The M,Sale,1199900.0,1,1,409,Kayla Chong,3 Sep 2025,32 Middle Road,CC3 Esplanade MRT Station,480,2933.74,https://www.propertyguru.com.sg/listing/for-sale-the-m-24133413
+24774450,The M,Sale,1099000.0,-1,1,409,Vivian Ong,3 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2687.04,https://www.propertyguru.com.sg/listing/for-sale-the-m-24774450
+25026870,The M,Sale,1400000.0,1,1,527,Angeline Ho,18 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2656.55,https://www.propertyguru.com.sg/listing/for-sale-the-m-25026870
+25111600,The M,Sale,1260000.0,-1,1,409,Yu-ru Seetoh,3 Sep 2025,32 Middle Road,CC3 Esplanade MRT Station,480,3080.68,https://www.propertyguru.com.sg/listing/for-sale-the-m-25111600
+25458188,The M,Sale,1100000.0,-1,0,409,Stefan Teo,3 Sep 2025,32 Middle Road,CC3 Esplanade MRT Station,480,2689.49,https://www.propertyguru.com.sg/listing/for-sale-the-m-25458188
+25136706,The M,Sale,1838000.0,2,1,592,Stefan Teo,3 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,3104.73,https://www.propertyguru.com.sg/listing/for-sale-the-m-25136706
+25353551,South Beach Residences,Sale,8000000.0,4,3,2271,Tien Tien Chen,3 Sep 2025,28 South Beach Road,CC3 Esplanade MRT Station,290,3522.68,https://www.propertyguru.com.sg/listing/for-sale-south-beach-residences-25353551
+60080561,Aurea,Sale,1695000.0,2,2,635,Christina Tan,3 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2669.29,https://www.propertyguru.com.sg/listing/for-sale-aurea-60080561
+25347919,The M,Sale,1500000.0,1,1,550,Linda Gunarso,3 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2727.27,https://www.propertyguru.com.sg/listing/for-sale-the-m-25347919
+60053057,Aurea,Sale,5500000.0,4,4,1798,J.A. Goh 吴永益,18 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,3058.95,https://www.propertyguru.com.sg/listing/for-sale-aurea-60053057
+60073522,The M,Sale,1980000.0,2,2,721,Andre Chia,18 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2746.19,https://www.propertyguru.com.sg/listing/for-sale-the-m-60073522
+60046553,DUO Residences,Sale,1150000.0,-1,1,420,Artino Moniaga,2 Sep 2025,1 Fraser Street,EW12 Bugis MRT Station,250,2738.1,https://www.propertyguru.com.sg/listing/for-sale-duo-residences-60046553
+60111170,Midtown Modern,Sale,2300000.0,2,1,635,Jax Lim,2 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3622.05,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60111170
+60110937,⭐️SUPER CHEAP! Mins walk to MRT! CCR cheaper than RCR!,Sale,1765000.0,2,2,635,Jerome Lim,18 Sep 2025,,CC5 Nicoll Highway MRT Station,520,2779.53,https://www.propertyguru.com.sg/listing/for-sale-super-cheap-mins-walk-to-mrt-ccr-cheaper-than-rcr-60110937
+25573681,The M,Sale,1300000.0,1,1,527,Aaron Oon,2 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2466.79,https://www.propertyguru.com.sg/listing/for-sale-the-m-25573681
+60110658,Aurea,Sale,2710000.0,3,2,1001,Dennis Lim,2 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2707.29,https://www.propertyguru.com.sg/listing/for-sale-aurea-60110658
+25041810,The M,Sale,1198888.0,-1,1,409,Gwen Ong,2 Sep 2025,32 Middle Road,CC3 Esplanade MRT Station,480,2931.27,https://www.propertyguru.com.sg/listing/for-sale-the-m-25041810
+60035583,Midtown Bay,Sale,1299999.0,1,1,452,Surya Gunawan,2 Sep 2025,120 Beach Road,CC3 Esplanade MRT Station,520,2876.1,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-60035583
+25643432,Midtown Modern,Sale,2850000.0,3,2,904,Jane Chia,2 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3152.65,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25643432
+25623938,Midtown Modern,Sale,2030000.0,2,1,592,Kenneth Sim,2 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3429.05,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25623938
+25119089,Concourse Skyline,Sale,2400000.0,2,2,1109,Lily Tan,2 Sep 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,2164.11,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-25119089
+25607545,Midtown Modern,Sale,1830000.0,2,1,592,Daryl Lee,23 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3091.22,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25607545
+25613852,Midtown Modern,Sale,1580000.0,1,1,474,Paul Ang,2 Sep 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3333.33,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25613852
+25136154,Midtown Modern,Sale,2300000.0,2,2,721,Benson Lau,5 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3190.01,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25136154
+60109500,Aurea,Sale,1765000.0,2,2,635,Shirlyn Chin,1 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2779.53,https://www.propertyguru.com.sg/listing/for-sale-aurea-60109500
+25224072,Midtown Modern,Sale,1520000.0,1,1,474,Xinyi Ho 何欣倚,1 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3206.75,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25224072
+60025824,Aurea,Sale,4080510.0,4,3,1442,Matthew Leo,1 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2829.76,https://www.propertyguru.com.sg/listing/for-sale-aurea-60025824
+60068771,Midtown Bay,Sale,4714000.0,3,3,1324,Alex Toh C W,1 Sep 2025,122 Beach Road,EW12 Bugis MRT Station,410,3560.42,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-60068771
+60030606,Concourse Skyline,Sale,1638888.0,1,1,872,Gabriel Ong,1 Sep 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,1879.46,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-60030606
+60004856,Midtown Modern,Sale,2750000.0,3,2,904,Ken CHONG,1 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3042.04,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60004856
+25616560,Midtown Modern,Sale,1300000.0,1,1,409,Charmé Yan,1 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3178.48,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25616560
+24721483,The M,Sale,2050000.0,2,2,764,Eddy Ong 王握澐,1 Sep 2025,36 Middle Road,CC3 Esplanade MRT Station,480,2683.25,https://www.propertyguru.com.sg/listing/for-sale-the-m-24721483
+25606489,Concourse Skyline,Sale,3385395.0,3,2,1668,Muhammad Aman Mohamed Aboobucker,1 Sep 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,2029.61,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-25606489
+25604155,Midtown Bay,Sale,2308000.0,2,2,732,Muhammad Aman Mohamed Aboobucker,1 Sep 2025,120 Beach Road,CC3 Esplanade MRT Station,520,3153.01,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-25604155
+60108528,Southbank,Sale,1950000.0,2,2,958,Bryan Wee,31 Aug 2025,881 North Bridge Road,EW11 Lavender MRT Station,450,2035.49,https://www.propertyguru.com.sg/listing/for-sale-southbank-60108528
+60089720,Aurea,Sale,1765000.0,2,2,635,Reis Lim,31 Aug 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2779.53,https://www.propertyguru.com.sg/listing/for-sale-aurea-60089720
+60090056,Aurea,Sale,2632000.0,3,2,1001,Reis Lim,31 Aug 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2629.37,https://www.propertyguru.com.sg/listing/for-sale-aurea-60090056
+23948310,Concourse Skyline,Sale,1620000.0,1,1,871,Celeste Loh 羅婉之,31 Aug 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,1859.93,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-23948310
+60022602,Aurea,Sale,11313428.0,5,5,3253,Navin Pampan,12 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,3477.84,https://www.propertyguru.com.sg/listing/for-sale-aurea-60022602
+60022561,Aurea,Sale,11313400.0,5,5,3252,Navin Pampan,31 Aug 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,3478.91,https://www.propertyguru.com.sg/listing/for-sale-aurea-60022561
+25614572,Midtown Modern,Sale,3600000.0,3,2,1066,Terence Tan,31 Aug 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3377.11,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25614572
+25414381,The M,Sale,1980000.0,2,2,721,Patricia Ang,16 Sep 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2746.19,https://www.propertyguru.com.sg/listing/for-sale-the-m-25414381
+24792902,The M,Sale,1648000.0,1,1,484,Jane Lim,30 Aug 2025,30 Middle Road,CC3 Esplanade MRT Station,480,3404.96,https://www.propertyguru.com.sg/listing/for-sale-the-m-24792902
+60063733,Aurea,Sale,4080000.0,4,3,1442,Zac Teo,18 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2829.4,https://www.propertyguru.com.sg/listing/for-sale-aurea-60063733
+60007210,Aurea,Sale,11572665.0,5,4,3251,Zac Teo,30 Aug 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,3559.72,https://www.propertyguru.com.sg/listing/for-sale-aurea-60007210
+25613594,Aurea,Sale,5187000.0,4,4,1798,Zac Teo,30 Aug 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2884.87,https://www.propertyguru.com.sg/listing/for-sale-aurea-25613594
+25614179,Midtown Modern,Sale,2400000.0,2,1,635,Zoe Tan,30 Aug 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3779.53,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25614179
+25622666,"⭐️1KM RIVER VALLEY PRI, FREEHOLD",Sale,4500000.0,4,4,1506,Jared Tan,30 Aug 2025,River Valley Road,DT20 Fort Canning MRT Station,400,2988.05,https://www.propertyguru.com.sg/listing/for-sale-1km-river-valley-pri-freehold-25622666
+60107576,Midtown Modern,Sale,6200000.0,4,4,1808,Terence Tan,18 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3429.2,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60107576
+60096802,Aurea,Sale,1765000.0,2,2,635,Lawrence Teo (赵世廷),18 Sep 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2779.53,https://www.propertyguru.com.sg/listing/for-sale-aurea-60096802
+23561966,Concourse Skyline,Sale,5300000.0,4,5,2300,Gina Tng,30 Aug 2025,300 Beach Road,CC5 Nicoll Highway MRT Station,340,2304.35,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-23561966
+25589915,Aurea,Sale,1933000.0,2,2,710,Ann Ng,30 Aug 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2722.54,https://www.propertyguru.com.sg/listing/for-sale-aurea-25589915
+25620376,Midtown Modern,Sale,1438000.0,1,1,409,Adeline Thio,30 Aug 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3515.89,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25620376
+60106913,The M,Sale,1688000.0,2,1,592,Nicholas Wong,29 Aug 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2851.35,https://www.propertyguru.com.sg/listing/for-sale-the-m-60106913
+25167043,The M,Sale,1200000.0,1,1,527,Abby Wong,29 Aug 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2277.04,https://www.propertyguru.com.sg/listing/for-sale-the-m-25167043
+60048704,Aurea,Sale,1765000.0,2,2,646,Priscillia Wong,29 Aug 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2732.2,https://www.propertyguru.com.sg/listing/for-sale-aurea-60048704
+25618590,The M,Sale,1250000.0,1,1,409,Jean Ang  诗吟,29 Aug 2025,30 Middle Road,CC3 Esplanade MRT Station,480,3056.23,https://www.propertyguru.com.sg/listing/for-sale-the-m-25618590
+24760391,The M,Sale,1650000.0,2,1,635,Roland Ong,29 Aug 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2598.43,https://www.propertyguru.com.sg/listing/for-sale-the-m-24760391
+24760058,The M,Sale,1350000.0,1,1,463,Jenny Toh,29 Aug 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2915.77,https://www.propertyguru.com.sg/listing/for-sale-the-m-24760058
+25391350,Southbank,Sale,1080000.0,-1,1,592,Steven Teo,18 Sep 2025,881 North Bridge Road,EW11 Lavender MRT Station,450,1824.32,https://www.propertyguru.com.sg/listing/for-sale-southbank-25391350
+25627913,The M,Sale,1720000.0,2,1,635,Michelle Lee,22 Sep 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2708.66,https://www.propertyguru.com.sg/listing/for-sale-the-m-25627913
+60096521,The M,Sale,2050000.0,2,2,764,Eden Lim,29 Aug 2025,36 Middle Road,CC3 Esplanade MRT Station,480,2683.25,https://www.propertyguru.com.sg/listing/for-sale-the-m-60096521
+25506972,Midtown Bay,Sale,1600000.0,1,1,452,Bjorn Chua,29 Aug 2025,122 Beach Road,EW12 Bugis MRT Station,410,3539.82,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-25506972
+60092938,Midtown Modern,Sale,1320000.0,1,1,409,Cappi Lim,29 Aug 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3227.38,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60092938
+25293694,Midtown Bay,Sale,1468000.0,1,1,409,Michelle Tan,29 Aug 2025,122 Beach Road,EW12 Bugis MRT Station,410,3589.24,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-25293694
+25120978,Midtown Modern,Sale,2750000.0,3,2,904,Tanny Ho,15 Sep 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3042.04,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25120978
+25635444,Midtown Modern,Sale,2200000.0,2,1,635,Rachel Lau,28 Aug 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3464.57,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25635444
+60105210,Midtown Modern,Sale,1400000.0,1,1,409,Sharon Kim Chan,28 Aug 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3422.98,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60105210
+60064674,Concourse Skyline,Sale,2100000.0,2,2,1119,Chua Ban Tee,28 Aug 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,1876.68,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-60064674
+25576293,Southbank,Sale,1250000.0,1,1,614,Chin Wei NG,28 Aug 2025,881 North Bridge Road,EW11 Lavender MRT Station,450,2035.83,https://www.propertyguru.com.sg/listing/for-sale-southbank-25576293
+60041283,Southbank,Sale,1124800.0,1,1,592,Chin Wei NG,28 Aug 2025,881 North Bridge Road,EW11 Lavender MRT Station,450,1900.0,https://www.propertyguru.com.sg/listing/for-sale-southbank-60041283
+23218747,Concourse Skyline,Sale,5079888.0,4,4,2301,Navin Pampan,28 Aug 2025,300 Beach Road,CC5 Nicoll Highway MRT Station,340,2207.69,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-23218747
+60085954,Aurea,Sale,1765000.0,2,2,635,Maria Heng,28 Aug 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2779.53,https://www.propertyguru.com.sg/listing/for-sale-aurea-60085954
+60104875,Midtown Modern,Sale,1410000.0,1,1,474,Vernon Low,28 Aug 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,2974.68,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60104875
+24864427,The M,Sale,1780000.0,2,1,592,Jason Tan,4 Sep 2025,36 Middle Road,CC3 Esplanade MRT Station,480,3006.76,https://www.propertyguru.com.sg/listing/for-sale-the-m-24864427
+25074564,The M,Sale,1199900.0,1,1,409,Edmund Chua,28 Aug 2025,32 Middle Road,CC3 Esplanade MRT Station,480,2933.74,https://www.propertyguru.com.sg/listing/for-sale-the-m-25074564
+60056934,Midtown Bay,Sale,1450000.0,1,1,409,Sugiany Tan,27 Aug 2025,120 Beach Road,CC3 Esplanade MRT Station,520,3545.23,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-60056934
+25113972,Concourse Skyline,Sale,1650000.0,1,1,850,Liao Jingyi,27 Aug 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,1941.18,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-25113972
+25613197,Midtown Modern,Sale,2400000.0,2,2,721,Vivienne Zhou,27 Aug 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3328.71,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25613197
+24408516,Midtown Bay,Sale,4714000.0,3,3,1324,Stan Lee 李俊豪,27 Aug 2025,120 Beach Road,CC3 Esplanade MRT Station,520,3560.42,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-24408516
+24408496,Midtown Bay,Sale,2900000.0,2,2,1012,Stan Lee 李俊豪,15 Sep 2025,120 Beach Road,CC3 Esplanade MRT Station,520,2865.61,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-24408496
+24408482,Midtown Bay,Sale,2450000.0,2,2,743,Stan Lee 李俊豪,27 Aug 2025,120 Beach Road,CC3 Esplanade MRT Station,520,3297.44,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-24408482
+24408445,Midtown Bay,Sale,1600000.0,1,1,484,Stan Lee 李俊豪,27 Aug 2025,120 Beach Road,CC3 Esplanade MRT Station,520,3305.79,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-24408445
+60024065,The M,Sale,2588000.0,3,2,904,Jaslyn Tio,27 Aug 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2862.83,https://www.propertyguru.com.sg/listing/for-sale-the-m-60024065
+24356975,Concourse Skyline,Sale,1680000.0,1,1,818,Eddy Ong 王握澐,27 Aug 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,2053.79,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-24356975
+60084209,Aurea,Sale,1790000.0,2,2,646,Ethel Lim,27 Aug 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2770.9,https://www.propertyguru.com.sg/listing/for-sale-aurea-60084209
+60085392,Concourse Skyline,Sale,5372406.0,4,4,2648,Jocelyn Tan,18 Sep 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,2028.85,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-60085392
+23373076,Midtown Modern,Sale,2700000.0,3,2,904,Joanna Tan 陈敏兒,27 Aug 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,2986.73,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-23373076
+25304723,The M,Sale,2588888.0,3,2,904,Irene Chan,27 Aug 2025,38 Middle Road,CC3 Esplanade MRT Station,480,2863.81,https://www.propertyguru.com.sg/listing/for-sale-the-m-25304723
+24323483,The M,Sale,2599000.0,3,2,904,Charlene Ong,27 Aug 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2875.0,https://www.propertyguru.com.sg/listing/for-sale-the-m-24323483
+25277937,DUO Residences,Sale,1280000.0,1,1,614,Jackson Chen,27 Aug 2025,1 Fraser Street,EW12 Bugis MRT Station,250,2084.69,https://www.propertyguru.com.sg/listing/for-sale-duo-residences-25277937
+60038657,Concourse Skyline,Sale,2500000.0,2,2,1152,June Lee,27 Aug 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,2170.14,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-60038657
+24667734,The M,Sale,1500000.0,1,1,463,Leon Hoon,27 Aug 2025,30 Middle Road,CC3 Esplanade MRT Station,480,3239.74,https://www.propertyguru.com.sg/listing/for-sale-the-m-24667734
+25538734,Aurea,Sale,1765000.0,2,2,646,Tricia Lim,26 Aug 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2732.2,https://www.propertyguru.com.sg/listing/for-sale-aurea-25538734
+25241157,The M,Sale,1200000.0,1,1,452,Jermain Ng,26 Aug 2025,32 Middle Road,CC3 Esplanade MRT Station,480,2654.87,https://www.propertyguru.com.sg/listing/for-sale-the-m-25241157
+24806439,The M,Sale,2150000.0,2,2,721,WEI DENG,26 Aug 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2981.97,https://www.propertyguru.com.sg/listing/for-sale-the-m-24806439
+24041418,The M,Sale,1300000.0,-1,1,409,Jude L.,26 Aug 2025,32 Middle Road,CC3 Esplanade MRT Station,480,3178.48,https://www.propertyguru.com.sg/listing/for-sale-the-m-24041418
+24230059,Concourse Skyline,Sale,2000000.0,1,1,829,Brina Lee,26 Aug 2025,296 Beach Road,CC5 Nicoll Highway MRT Station,340,2412.55,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-24230059
+60047556,The M,Sale,1680000.0,2,1,592,Wang Xing,26 Aug 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2837.84,https://www.propertyguru.com.sg/listing/for-sale-the-m-60047556
+21592397,Concourse Skyline,Sale,5567200.0,4,4,2142,Jay Choong 钟志杰,26 Aug 2025,300 Beach Road,CC5 Nicoll Highway MRT Station,340,2599.07,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-21592397
+22042239,Midtown Bay,Sale,2810000.0,2,2,990,Eric KANG (江瑞裕),26 Aug 2025,122 Beach Road,EW12 Bugis MRT Station,410,2838.38,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-22042239
+22041598,Midtown Bay,Sale,1588000.0,1,1,409,Eric KANG (江瑞裕),26 Aug 2025,122 Beach Road,EW12 Bugis MRT Station,410,3882.64,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-22041598
+25514540,Aurea,Sale,1765000.0,2,2,635,Eric KANG (江瑞裕),26 Aug 2025,802 Beach Road,CC5 Nicoll Highway MRT Station,610,2779.53,https://www.propertyguru.com.sg/listing/for-sale-aurea-25514540
+22042248,Midtown Bay,Sale,4710000.0,3,3,1324,Eric KANG (江瑞裕),26 Aug 2025,122 Beach Road,EW12 Bugis MRT Station,410,3557.4,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-22042248
+24309284,Concourse Skyline,Sale,9343600.0,3,4,3272,Lincoln Choo,26 Aug 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,2855.62,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-24309284
+24391824,Concourse Skyline,Sale,13348000.0,3,4,3272,Lincoln Choo,26 Aug 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,4079.46,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-24391824
+24391825,Concourse Skyline,Sale,5486520.0,4,4,2142,Lincoln Choo,26 Aug 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,2561.4,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-24391825
+25201622,The M,Sale,1550000.0,1,1,527,Tricia Lim,26 Aug 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2941.18,https://www.propertyguru.com.sg/listing/for-sale-the-m-25201622
+60049593,Concourse Skyline,Sale,1880000.0,1,1,872,Sharon Kim Chan,26 Aug 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,2155.96,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-60049593
+60102173,Concourse Skyline,Sale,2100000.0,2,2,1119,Brandon Ng,26 Aug 2025,300 Beach Road,CC5 Nicoll Highway MRT Station,340,1876.68,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-60102173
+25534026,DUO Residences,Sale,2620000.0,2,2,1023,Jon M,25 Aug 2025,1 Fraser Street,EW12 Bugis MRT Station,250,2561.09,https://www.propertyguru.com.sg/listing/for-sale-duo-residences-25534026
+60034314,Midtown Bay,Sale,1379999.0,1,1,409,Surya Gunawan,25 Aug 2025,122 Beach Road,EW12 Bugis MRT Station,410,3374.08,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-60034314
+60040227,Midtown Modern,Sale,2400000.0,2,2,721,Zack Chong,25 Aug 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3328.71,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60040227
+23682997,Concourse Skyline,Sale,3180000.0,3,3,1346,Mike Tan,25 Aug 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,2362.56,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-23682997
+24882210,The M,Sale,1450000.0,2,1,527,Caleb Tang,25 Aug 2025,30 Middle Road,CC3 Esplanade MRT Station,480,2751.42,https://www.propertyguru.com.sg/listing/for-sale-the-m-24882210
+25364576,Midtown Modern,Sale,1500000.0,1,1,409,Alvy Yong,25 Aug 2025,16 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3667.48,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-25364576
+60049585,Concourse Skyline,Sale,2100000.0,2,2,1119,Sharon Kim Chan,25 Aug 2025,298 Beach Road,CC5 Nicoll Highway MRT Station,340,1876.68,https://www.propertyguru.com.sg/listing/for-sale-concourse-skyline-60049585
+25339728,Midtown Bay,Sale,3063999.0,2,2,1012,Aw Hui Koon,25 Aug 2025,126 Beach Road,CC3 Esplanade MRT Station,490,3027.67,https://www.propertyguru.com.sg/listing/for-sale-midtown-bay-25339728
+25044390,South Beach Residences,Sale,4600000.0,2,2,1216,Jacky Zhou,23 Aug 2025,28 South Beach Road,CC3 Esplanade MRT Station,290,3782.89,https://www.propertyguru.com.sg/listing/for-sale-south-beach-residences-25044390
+60010957,Midtown Modern,Sale,2489000.0,2,1,635,Corliss Chua,23 Aug 2025,18 Tan Quee Lan Street,EW12 Bugis MRT Station,310,3919.69,https://www.propertyguru.com.sg/listing/for-sale-midtown-modern-60010957
+25497782,South Beach Residences,Sale,7800000.0,3,4,2121,Vincent Jiang 蒋纯,23 Aug 2025,28 South Beach Road,CC3 Esplanade MRT Station,290,3677.51,https://www.propertyguru.com.sg/listing/for-sale-south-beach-residences-25497782
+24513145,"⭐️READY 2023, HIGH RENTAL",Sale,1700000.0,2,0,657,Eugene Ng,23 Aug 2025,,EW12 Bugis MRT Station,320,2587.52,https://www.propertyguru.com.sg/listing/for-sale-ready-2023-high-rental-24513145
