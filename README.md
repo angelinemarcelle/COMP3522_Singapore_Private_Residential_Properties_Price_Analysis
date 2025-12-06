@@ -27,42 +27,43 @@ This project provides an in-depth analysis of Singapore's private residential pr
 *Note: Data files may not be included due to licensing. Please follow instructions in the notebooks to download or access data.*
 
 ## Usage
-**Step 1: Clone the Repository**
 
-Open your terminal or command prompt and run the following commands to download the project files and enter the main directory.
+Since this project is submitted as a ZIP file, follow these steps to set up and run the analysis pipeline:
 
-`git clone https://github.com/angelinemarcelle/COMP3522_Singapore_Private_Residential_Properties_Price_Analysis.git`
+**Step 1: Unzip and Open the Project**
 
-**Step 2: Set Global Git Identity**
+Unzip the submitted file (e.g., COMP3522_Analysis.zip) to a location on your computer.
 
-`git config --global.name "Example123"`
+Open VS Code.
 
-`git config --global.email "Example123@email.com"`
+Go to File > Open Folder... (or File > Open... on some systems) and select the unzipped project folder (e.g., COMP3522_Singapore_Private_Residential_Properties_Price_Analysis).
+**Step 2: Run the Analysis Pipeline (Notebooks 01-04)**
 
-**Step 3: Run the Analysis Pipeline (Notebooks 01-03)**
+The analysis is designed to be sequential, meaning the notebooks must be executed in the following order. Ensure you have the necessary environment (e.g., Python kernel with required libraries) set up in VS Code to run Jupyter Notebooks.
 
-The analysis is sequential, so the notebooks must be executed in order.
-**3a. Execute `01-EDA.ipynb` (Exploratory Data Analysis)**
+Execute 01-EDA.ipynb (Exploratory Data Analysis)
 
-Navigate to the notebooks/ folder and open `01-EDA.ipynb`.
+Navigate to the notebooks/ folder and open 01-EDA.ipynb.
 
-Action: Run all cells in the notebook. 
+Action: Run all cells in the notebook.
 
-**3b. Execute `02-clustering.ipynb` (Clustering Analysis)**
+Execute 02-clustering.ipynb (Clustering Analysis)
 
-Open `02-clustering.ipynb`.
+Open 02-clustering.ipynb.
 
-Action: Run all cells.
+Action: Run all cells in the notebook.
 
-**3c. Execute `03-modeling.ipynb` (Predictive Modeling)**
+Execute 03-modeling.ipynb (Predictive Modeling)
 
-Open `03-modeling.ipynb`.
+Open 03-modeling.ipynb.
 
-Action: Run all cells.
+Action: Run all cells in the notebook.
 
-**3d. Execute `04-age_group.ipynb` (Demographic "Worth the Money" Framework)**
+Execute 04-age_group.ipynb (Demographic "Worth the Money" Framework)
 
-Open `04-age_group.ipynb`.
+Open 04-age_group.ipynb.
 
-Action: Run all cells.
+Action: Run all cells in the notebook.
+
+
 
