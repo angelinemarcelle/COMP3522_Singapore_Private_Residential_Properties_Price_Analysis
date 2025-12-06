@@ -27,5 +27,8 @@ This project provides an in-depth analysis of Singapore's private residential pr
 *Note: Data files may not be included due to licensing. Please follow instructions in the notebooks to download or access data.*
 
 ## Usage
+Step 1: Clone the Repository
 
-- Run notebooks to follow and reproduce analysis.
+Open your terminal or command prompt and run the following commands to download the project files and enter the main directory.
+
+`git clone `
