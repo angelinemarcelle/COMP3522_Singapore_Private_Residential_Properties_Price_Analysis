@@ -28,42 +28,49 @@ This project provides an in-depth analysis of Singapore's private residential pr
 
 ## Usage
 
-Since this project is submitted as a ZIP file, follow these steps to set up and run the analysis pipeline:
+Since this project is submitted as a **ZIP file**, follow these steps to set up and run the analysis pipeline:
 
 **Step 1: Unzip and Open the Project**
 
-Unzip the submitted file (e.g., COMP3522_Analysis.zip) to a location on your computer.
+Unzip the submitted file (e.g., `COMP3522_Analysis.zip`) to a location on your computer.
 
-Open VS Code.
+Open **VS Code**.
 
-Go to File > Open Folder... (or File > Open... on some systems) and select the unzipped project folder (e.g., COMP3522_Singapore_Private_Residential_Properties_Price_Analysis).
+Go to `File` > `Open Folder...` (or `File` > `Open...` on some systems) and select the unzipped project folder (e.g., `COMP3522_Singapore_Private_Residential_Properties_Price_Analysis`).
+
 **Step 2: Run the Analysis Pipeline (Notebooks 01-04)**
 
-The analysis is designed to be sequential, meaning the notebooks must be executed in the following order. Ensure you have the necessary environment (e.g., Python kernel with required libraries) set up in VS Code to run Jupyter Notebooks.
+The analysis is designed to be **sequential**, meaning the notebooks must be executed in the following order. Ensure you have the necessary environment (e.g., Python kernel with required libraries) set up in VS Code to run Jupyter Notebooks.
 
-Execute 01-EDA.ipynb (Exploratory Data Analysis)
+1. Execute `01-EDA.ipynb` **(Exploratory Data Analysis)**
 
-Navigate to the notebooks/ folder and open 01-EDA.ipynb.
-
-Action: Run all cells in the notebook.
-
-Execute 02-clustering.ipynb (Clustering Analysis)
-
-Open 02-clustering.ipynb.
+Navigate to the `notebooks/` folder and open `01-EDA.ipynb`.
 
 Action: Run all cells in the notebook.
 
-Execute 03-modeling.ipynb (Predictive Modeling)
+2. Execute `02-clustering.ipynb` **(Clustering Analysis)**
 
-Open 03-modeling.ipynb.
+Open `02-clustering.ipynb`.
+
+Action: Run all cells in the notebook.
+
+3. Execute `03-modeling.ipynb` **(Predictive Modeling)**
+
+Open `03-modeling.ipynb`.
 
 Action: Run all cells in the notebook.
 
-Execute 04-age_group.ipynb (Demographic "Worth the Money" Framework)
+4. Execute `04-age_group.ipynb` **(Demographic "Worth the Money" Framework)**
 
-Open 04-age_group.ipynb.
+Open `04-age_group.ipynb`.
 
 Action: Run all cells in the notebook.
+
+## Repository Reference
+
+For ease of reproducibility, version history, or further reference, the source code is publicly available on GitHub:
+
+GitHub Link: https://github.com/angelinemarcelle/COMP3522_Singapore_Private_Residential_Properties_Price_Analysis.git
 
 
 
